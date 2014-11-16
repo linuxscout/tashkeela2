@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To44">
+<fileDesc>
+<titleStmt>
+<title>جائزة أفضل مشروع تجديد لفندق شيراتون البحرين   </title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 157 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 111, 4 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>حصل فندق شيراتون البحرين، الذى خضع لعملية تجديد شاملة علي جائزة تقديرية راقية. وقال كارلهاينز أومان، المسؤول فى مجموعة فنادق ومنتج</p>
+<p>عات ستاروود العالمية، الشركة الأم لعلامة شيراتون؛ لقد تم تحويل فندق تقليدى إلي فندق مدهش يتلاءم ومظاهر الألفية الجديدة. وكان أومان يتحدث بمناسبة حصول فندق البحرين علي جائزة أفضل مشروع تحديث ضمن سلسلة شيراتون فى أفريقيا والهند والشرق الأوسط. وأضاف؛ هذه الجائزة هى فخر كبير بالنسبة لنا ولطالما اشتهر هذا الفندق باعتماده أعلي المعايير. ويحتفل فندق البحرين بالذكري العشرين علي بدء عملياته، وكان يشكل جزءاً أساسياً من الحياة الاجتماعية والسياسية فى الجزيرة. كما استضاف هذا الفندق أيضاً قمتى مجلس التعاون لدول الخليج العربية عامى 1982 و1988م. وقال أومان؛ يتمتع هذا الفندق بتاريخ يفتخر به، فقد شهد العديد من الأحداث البارزة التى جرت هنا خلال السنوات العشرين الماضية، لذا كان لا بد أن يحافظ علي الأجواء عينها بخطوط جديدة. وأضاف؛ تؤكد الجائزة التى أحرزناها لأفضل مشروع تجديد والتى تجرى فى جو تنافسى بارز أننا أبدعنا فيما حققناه.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+

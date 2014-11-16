@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD22">
+<fileDesc>
+<titleStmt>
+<title>الذئب  </title>
+<author>جبير المليحان    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Jubeer Al-Muleehan, Saudi Arabia</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2000-2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.arabicstory.net </p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 523 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2000-2004">2000-2004</date>
+<rs type="city">Reyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc ana="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue" active="single"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Saudi </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>            عندما انحدر الذئب من الجبل ، و وصل إلى الغابة تلفتت الحيوانات بخوف ، و توقفت عن الحركة و هي ترقبه ، الببغاء صمت عن صياحه المستمر.. و العصافير ارتجفت. </p>
+<p>  وقف الذئب غير بعيد منهم .. ابتسم و مد يده ملوحا .. جرت همهمات كثيرة و حركة .. </p>
+<p>  الذئب لم يعر ذلك اهتماما : لف ذيله بين قدميه ، و مشى دائرا حول المكان ، حتى وجد صخرة بين الأشجار .. عند جدول الماء .. وضع أشياءه هناك .. و بدأ يخطط المكان لبناء بيته الجديد. </p>
+<p>  كان الذئب ينهمك في عمله مثيرا الغبار و الضوضاء .. مقتلعا الأشجار الصغيرة النامية و منظفا الأرض من الأعشاب الخضراء ..و الحيوانات تتجمع بحذر .. و تهمس بأصوات غير مسموعة . </p>
+<p>  بعد ساعتين أنهى الذئب عمله ، و قفز إلى الغابة لقطع الأشجار . </p>
+<p>  اقتربت الحيوانات من بعضها البعض ، و كان أول من زعق الببغاء : </p>
+<p>  - الذئب .. الذئب .. الذئب !! </p>
+<p>  أجفلت الحيوانات ، و تفرقت .. و دبت السلحفاة على مهل و هي تنادي بصوت واهن : </p>
+<p>  - تعالوا إنه هذا الببغاء لا غير . تعالوا نناقش موضوعنا </p>
+<p>  كان أول الواصلين الأرنب الذي نط فوق صدفة السلحفاة بحركة بهلوانية .. اجتمع الكل : القنافذ و الجرذان و السناجب و الطيور من كل نوع .. جاءت الغزالة تطرف بعينيها الجميلتين و وقفت بجانب سرب الحمام .. البط و الإوز أخذ يتهادى نافضا ريشه المبلل .. و القرد جاء متأخرا و هو يقفز من غصن إلى غصن .. و من بعده جاء الثعلب يهز ذيله و عيناه تبرقان بمكر .. قالت السلحفاة : </p>
+<p>  - نحن نسكن في هذه الأرض منذ أزمنة قديمة .. نعيش بهدوء و سلام ، الكل يعرف حقوقه ، و يؤدي واجباته .. الآن هذا الوافد الجديد .. الذئب ..... صاح الببغاء : </p>
+<p>  - الذئب .. الذئب </p>
+<p>  تلفتوا حولهم .. ثم ضحكوا . قالت الغزالة بحياء : </p>
+<p>  - لا نريده هنا ، معنا في أرضنا . أيدتها الطيور مصفقة بأجنحتها . و قال السنجاب : </p>
+<p>  - لنبحث الأمر كثيرا قبل أن نقرر . و قال القرد : </p>
+<p>  - أنا لا أخاف من الذئب .. لكنني معكم .. علينا أن نتعاون . اقترب الثعلب و عيناه الصغيرتان تلمعان ، و قال : </p>
+<p>  - يا جماعة الخير .. الذئب حيوان مثلنا ، و هو طيب كما ترون .. لقد جاء ليعيش مع الجماعة بسلام . </p>
+<p>  ضجت الجماعة بأصوات محتجة ، و علا صوت الببغاء و هو يردد : الذئب .. الذئب .. سكتوا .. فقالت السلحفاة : </p>
+<p>  - الذئب خطر علينا كلنا .. لن نصدق كلامك أيها الثعلب .. و سنثبت لك أنه شرير </p>
+<p>  - كيف تثبتين ذلك أيتها الزعيمة الزاحفة ؟!! قال ذلك الثعلب بسخرية . </p>
+<p>  - ضعوا قطعة اللحم تلك فوق صخرته ، و عندما يعود و يبدأ الأكل حاول أيها الثعلب أن تشاركه و سترى !! </p>
+<p>  صاح بعض الدجاج : </p>
+<p>  - نحن نأكل الحبوب معا .. و قال الإوز : و نحن .. و طار الحمام مؤيدا .. و تراكضت الأرانب تأكل من العشب مجتمعة .. كان القرد يمد قطعة موز للببغاء .. هدأتهم السلحفاة ، و قالت : </p>
+<p>  - الذئاب تحب نفسها فقط ، و تتقاتل على الطعام .. نحن سنتعاون لطرده من هنا .. تعالوا معي إلى مكان اجتماعنا المعتاد ، و سنضع خطة تبقيه بعيدا عن أرضنا ..</p>
+       
+
+</body>
+</text>
+</tei.2>
+
+

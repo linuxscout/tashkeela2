@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To17">
+<fileDesc>
+<titleStmt>
+<title>سويس تقدم عروضاً خاصة للمسافرين من السعودية إلى جنيف  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 220 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أعلنت سويس انترناشيونال إيرلاينز، الناقلة الوطنية السويسرية، عن إطلاق عرض خاص للراغبين بالسفر إلى سويسرا انطلاقاً من المملكة العربية السعودية هذا الصيف لحضور المهرجان الشهير "فيت دو جنيف" "أعياد جنيف". ويتيح هذا العرض الفرصة للمسافرين من الرياض وجدة إلى جنيف الاستمتاع بقضاء 3 ليال شاملة تذاكر السفر ذهاباً وإياباً على الدرجة السياحية والإقامة الفندقية، وذلك مقابل 4 آلاف ريال سعودي للشخص الواحد. كما تتوفر عروض أخرى مشابهة لزيارة معالم سويسرا السياحية طوال فترة الصيف. ويمكن للمسافرين على متن خطوط سويس الاستفادة من هذه العروض الخاصة التي تشمل نفقات السفر وحجز الفنادق والمواصلات الداخلية. ويتيح مهرجان أعياد جنيف العالمي، الذي بدأ في 31 يولية الماضي ويستمر حتى 10 أغسطس الجاري، الفرصة للزوار من مختلف أنحاء العالم للتفاعل والتحاور فيما بينهم. ويقام المهرجان، الذي يحظى بشعبية كبيرة بين السائحين العرب، حول بحيرة جنيف وفي العديد من أحيائها. ويضم المهرجان العديد من الفعاليات المتنوعة، ومنها برنامج للألعاب السحرية المسلية وعروض موسيقية وحفلات للرقصات الشعبية والفولكلورية وعروض المهرجين والمغنيين والموسيقى الكلاسيكية والأزياء والمأكولات المتنوعة. وتشغل سويس 26 رحلة أسبوعية من منطقة الشرق الأوسط تشمل رحلات يومية من دبي، وأربع رحلات أسبوعية من القاهرة وكراتشي، وثلاث رحلات أسبوعية من كل من الرياض ومسقط وطهران، إضافة إلى رحلتين أسبوعيتين من جدة. ويمكن للمسافرين من منطقة الشرق الأوسط مع سويس خلال هذا الصيف الاختيار بين 58 وجهة أوروبية تصل إليها سويس بسهولة عبر مركزها الرئيسي في زيوريخ.</p>
+
+</body>
+</text>
+</tei.2>
+

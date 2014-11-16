@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To24">
+<fileDesc>
+<titleStmt>
+<title>خدمات عمرة بمستويات متميزة  </title>
+<author>عبدالله سلمان الجهني    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 353 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Male" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Assistant of General Manager for advertisment in Saudi Airlines</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>اعتمد مؤتمر "السعودية" الثاني لمطوري خدمات العمرة والزيارة شعار "نحو خدمات عمرة</p>
+<p> بمستويات متميزة" للأهمية البالغة لخدمة المعتمر حيث أن المعتمر وخدمته هما ركيزتان أساسيتان لنجاح البرامج التسويقية والبيعية. ولمواكبة الإتجاهات الحديثة لتسويق خدمات العمرة، يجب أن تتمحور جميع الأنظمة والإجراءات والبرامج حول المعتمر وتعمل على تلبية احتياجاته ورغباته. إن سوق العمرة والزيارة يغطي جميع أرجاء المعمورة وهو ضخم جداً يتجاوز حجمه 25،1 مليار مسلم. وهذا العدد يزداد سنوياً بنسب تفوق معدلات النمو السكاني العالمية، إلا أن المستهدف منه لا يتجاوز عدة ملايين يؤدون العمرة والزيارة خلال فترات زمنية محددة من العام. وتتصف سوق العمرة والزيارة باختلاف الفئات العمرية، وتعدد اللغات، والتباين في مستويات الدخل للأفراد.</p>
+<p>وتكمن أهمية المعتمر في أنه هو صاحب القرار في شراء الخدمة ودفع قيمتها من مدخراته، ويتوقع مقابل ذلك أن يتم التعامل معه بطريقة حسنة وتقدم له خدمة نقل واستقبال وإيواء وإعاشة ذات جودة عالية. لذا، فإن هناك حاجة ماسة للاستثمار أكثر وأكثر في الدراسات والبحوث لتحديد خصائص هذه السوق واحتياجات ورغبات المعتمرين. إن توفر المعلومات الدقيقة عن المعتمرين وشرائحهم سيمكن المخطط والمسوق من إعداد حزم خدمات تلبي وتفوق توقعات المعتمر.</p>
+<p>العمرة والزيارة هي رحلة إيمانية تبدأ عندما ينوي المعتمر صادقاً أداء هذه الشعيرة مروراً:</p>
+<p>@ باتصاله بوكلاء مطوري خدمات العمرة والزيارة الخارجيين لتوفير تذاكر النقل وحزمة الخدمات وتأشيرة العمرة.</p>
+<p>@ اتصاله وتعامله مع منسوبي الناقل الجوي أو البحري أو البري.</p>
+<p>@ إتصاله مع منسوبي الجوازات والجمارك في منافذ الدخول.</p>
+<p>@ اتصاله مع منسوبي مطوري خدمات العمرة والزيارة في الاستقبال وتوفير خدمات الإسكان والإعاشة وتمكينه من أداء نسك العمرة والزيارة وتوديعه عند مغادرته.</p>
+<p>@ وتنتهي هذه الرحلة بوصول المعتمر إلى بيته سالماً.</p>
+<p>إن تقييم المعتمر الإيجابي لهذه الرحلة يعتمد على حسن تعامل العناصر البشرية معه في كافة نقاط الاتصال وأدائهم خدمات تفوق توقعاته أو تلبيتها على أقل تقدير.</p>
+<p>إن تعاون وتظافر جهود جميع الجهات التي تقوم بخدمة المعتمر والتشاور فيما بينها قبل سن الأنظمة وتكثيف الدراسات والعمل على التقييم الدوري والتطوير المستمر لجودة الخدمات يؤمل منه تحقيق زيادة مستويات رضاء المعتمر.</p>
+<p>ويعتبر مؤتمر "السعودية" الثاني لمطوري خدمات العمرة والزيارة خطوة تسعى لزيادة التنسيق المشترك والرقي ببرامج الخدمات والبيع. فالمعتمر هو المحور لتقديم خدمات بمستويات متميزة.</p>
+<p>@ مساعد المدير العام للدعاية وبرامج التسويق بالخطوط الجوية العربية السعودية - جدة.</p>
+
+
+</body>
+</text>
+</tei.2>
+

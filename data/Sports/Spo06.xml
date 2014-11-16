@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="Spo06">
+<fileDesc>
+<titleStmt>
+<title> النشرة الرياضية</title>
+<author>ماجد عبدالحق, محمد العمري, عبدالعزيز جاسم</author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Radio Qatar, Qatar</publisher>
+<pubPlace> Qatar </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>transcribed from an audio recording obtained from http://radioqatar.com/</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole interview of 519 words transcribed from the recording. There is little background music</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-12">Dec 2001</date>
+<rs type="city">Doha, Qatar</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc ana="Speech-sport news">
+<channel mode="ws">written to be spoken; speech</channel>
+<recording type="audio" dur="3 mins, 38 sc"></recording>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="leisure"/>
+<factuality type="fact"/>
+<interaction type="dialogue" active="corporate"/>
+<preparedness type="prepared/spontaneous"/>
+</textDesc>
+<particDesc>
+<person role="interviewer" sex="M" age="Unknown" id="P1" >
+<birth date="Unknown">
+<date>Unknown</date>
+<name type="place">Unknown</name>
+<nationality>=Qatari</nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence>Qatar</residence>
+<education>Unknown</education>
+<occupation>Radio Broadcaster</occupation>
+</person>
+<person role="interviewee" sex="F" age="Unknown" id="P2" >
+<birth date="Unknown">
+<date>Unknown</date>
+<name type="place">Unknown</name>
+<nationality>=Qatari</nationality>
+</birth>
+<firstLang>Arabic</firstLang>    
+<langKnown>Unknown</langKnown>
+<residence>Qatar</residence>
+<education>Unknown</education>
+<occupation>head of sports for special needs</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>أعزائي المستمعين لإستعدادا للأولمباد الخليجي للخواص المقرر إنطلاقه غدا الخميس في إستاد خليفة الدولي. تجري اللجنة المنظمة العليا للبطولة في الثالثة والنصف من عصر اليوم البروفة الختامية لمراسم الإفتتاح لوضع اللمسات الأخيرة قبل الإفتتاح الرسمي. وسوف يشهد هذة البطولة الشيخ عبد الرحمن بن سعود آل ثاني. رئيس اللجنة المنظمة العليا والسيد حسن علي بن علي نائب الرئيس والدكتورة أنيسة الهتمي رئيسة الوفد القطري المشارك بالبطولة والدكتور أحمد علي النعمة مدير البطولة وجميع أعضاء اللجنة المنظمة العليا للبطولة ولتسليط الضوء أكثر على تفاصيل جديدة تنضم إلينا عبر الهاتف الآن الدكتورة أنيسة الهتمي رئيسة الوفد القطري</p> 
+<sp id="p1">
+<p>مساج الله بالخير دكتورة.</p> </sp>
+<sp id="p2">
+<p>حياك الله طال عمرك ومساكم الله بالخير جميعا.</p></sp>
+
+<sp id="p1">
+<p>دكتورة أنيسة. قبل إنطلاقة الأولمبياد الجديد. ماذا يمثل هذا النوع من الرياضات الخاصة؟</p></sp>
+
+<sp id="p2">
+<p>والله طال عمرك إحنا بداية طبعا شاكرين لكم تفضلكم وجهودكم وهذا ليس بغريب ولا بجديد على الهيئة العاملة للإذاعة والتلفزيون دايما سباقين صراحة لتغطية جميع الأنشطة سواء كان منها الرياضية أوالإجتماعية. فإحنا شاكرين لكم جهودكم..</p></sp>
+
+<sp id="p1">
+<p>لا شكر على واجب.</p></sp>
+
+<sp id="p2">
+<p>وتغطيتكم لهذا فلله الحمد مثل ما حضرتك عارف يعني ذوي الإحتياجات الخاصة مجالاتهم كثيرة..متعددة يعني منها الجانب الإجتماعي والنفسي ومنها أيضا النشاط الرياضي والجانب الرياضي.</p>
+<p>فأولادنا ولله الحمد مشاركاتهم على المستوى الرياضي. على مستوى ذوي الإحتياجات الخاصة ولله الحمد حققوافية من قبل إنجازات طيبة والحمد لله. واستعداداتهم لهذه البطولة أيضا الحمد لله متميزة ونأمل منهم الخير إن شاءالله. وهذا مثل ما حضرتك عارف أسلوب من أساليب دمج ذوي الإحتياجات الخاصة بالمجتمع إن شاءالله.</p></sp>
+
+<sp id="p1">
+<p>نعم دكتورة أنيسة. ماذا عن منافسات هذة البطولة أو المسابقات التي يحتوي عليها الأولومبياد؟</p></sp>
+
+<sp id="p2">
+<p>الأولومباد هذا طبعا خاص بمسابقات ألعاب القوى</p></sp>
+
+<sp id="p1">
+<p>نعم.</p></sp>
+
+<sp id="p2">
+<p>وإن شاء الله فيه سباقات متعددة . في عندنا الخمسين</p>
+<p>متر عدو و مائة متر عدو وفي عندنا مائتين وأربعمائة وثمانمائة ألف وخمسمائة جري فالحمد لله يعني وسبق إن عيالنا خاضوا مثل هذة التجارب
+.</p></sp>
+
+<sp id="p1">
+<p>نعم.</p></sp>
+
+<sp id="p2">
+<p>ومثل ما حضرتك عارف يعني ذوي الإحتياجات الخاصة أيضا لهم قواعد وقوانين مغايرة طبعا عن الأسوياء فطبعا هذي تناسب طبعا قدراتهم وإمكاناتهم وكفاءاتهم البدنية والنفسية..</p></sp>
+
+<sp id="p1">
+<p> نعم دكتورة ماذا عن المواعيد ؟ مواعيد البطولة</p></sp>
+
+<sp id="p2">
+<p>هذا بإذن الله إن شاء الله مثل ما حضرتك تفضلت قبل شوي. إن اليوم إن شاء الله عندنا البروفة الساعة ثلاث ونص إن شاء الله في إستاد خليفة الدولي وبكرة إن شاء الله الإفتتاح أيضا بنفس الموعد وبداية المسابقات وهي بدايتها إن شاء الله من بكرة سبعة وعشرين إلى يوم السبت تسعة وعشرين.</p></sp>
+
+<sp id="p1">
+<p>نعم أخيرا.</p></sp>
+
+<sp id="p2">
+<p>{....}حضرتك مشاركين فيها خمس دول خليجية.</p></sp>
+
+<sp id="p1">
+<p>نعم</p></sp>
+
+<sp id="p2">
+<p>وبإعتذار سلطنة عمان. إحنا كنا نأمل الآن الهدف من المشاركة في مثل هذة ... مثل هذا الإنجاز هو المشاركة أكثر منها منافسة.</p></sp>
+
+<sp id="p1">
+<p>نعم.</p></sp>
+
+<sp id="p2">
+<p>للمشاركة يعني حتى لو اللاعبين بالنسبة لسلطنة عمان مجرد حضورهم للمشاهدة وإكتساب الخبرات وإندماجهم مع أصدقائهم كنواحي إجتماعية هذا شئ طيب.</p></sp>
+
+<sp id="p1">
+<p>نعم</p></sp>
+
+<sp id="p2">
+<p>هذا اللي إحنا نهدفة. يعني كهدف كبير إن أنا هنيه نواحي إجتماعية ومواضيع المشاركة هذي مهمة جدا بانسبة لذوي الحاجات الخاصة..</p></sp>
+
+<sp id="p1">
+<p>بالتأكيد بالتأكيد يا دكتورة.</p></sp>
+
+<sp id="p2">
+<p>أكثر من إني آخذها جانب منافسات.</p></sp>
+
+<sp id="p1">
+<p>بالتأكيد بالتأكيد دكتورة.بالتأكيد دكتورة. عموما لضيق الوقت طبعا نشكرك على هذا اللقاء </p></sp>
+
+<sp id="p2">
+<p>ما قصرت طال عمرك.</p></sp>
+
+<sp id="p1">
+<p>شكرا للدكتورة أنيسة الهتمي</p></sp>
+
+<sp id="p2">
+<p>ما قصرت حياكم الله شكرا للجميع.</p></sp>
+
+<sp id="p1">
+<p>شكرا للدكتورة أنيسة الهتمي</p></sp>
+
+
+
+</body>
+</text>
+</tei.2>
+

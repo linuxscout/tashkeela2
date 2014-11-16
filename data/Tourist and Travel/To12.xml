@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To12">
+<fileDesc>
+<titleStmt>
+<title>خدمات خاصة من "السعودية" خلال شهر رمضان المبارك   </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 401 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>بمناسبة شهر رمضان المبارك، الذي يمثل ذروة موسم العمرة وتمشياً مع الجو الروحاني لهذا الشهر الفضيل، تقدم الخطوط الجوية العربية السعودية "السعودية" على طائراتها في رحلاتها الداخلية والدولية برامج سمعية ومرئية خاصة تتضمن تلاوة مباركة من القرآن الكريم بصوت كل من الدكتور عبدالرحمن عبدالعزيز السديس والدكتور سعود إبراهيم الشريم وعبدالباري الثبيتي ومحمد جبريل، بالإضافة إلى محاضرات دينية يقدمها الدكتور عايض عبدالله القرني، مع ترجمة لبعض الأحاديث الدينية باللغة الانجليزية. هذا وقد تم تخصيص قناة خاصة للبرامج الإسلامية والمرئية تقدم إرشادات عن مناسك العمرة وتأملات قرآنية للدكتور عبدالله بصفر تتضمن تفسيراً لسورتي الكهف والملك، بالإضافة إلى عدد من البرامج الدينية المتخصصة.</p>
+<p>وفي إطار استعدادات "السعودية" لشهر رمضان المبارك، فقد تم تعديل مواعيد بعض الرحلات لتكون مواعيد مغادرتها بعد ساعة من موعد الإفطار مع تحديد مواعيد الوصول أيضاً لتكون قبل ساعة من موعد الإفطار، وذلك حتى تتاح الفرصة للصائمين لتناول إفطارهم براحة.</p>
+<p>أما بالنسبة للرحلات التي تزيد مدة طيرانها عن ساعة ونصف الساعة، ويحل موعد الإفطار خلالها، فتقدم "السعودية" عليها وجبة عشاء ساخنة.</p>
+<p>كما تقدم "السعودية" وجبة عشاء ساخنة للمسافرين الذين يغادرون على الرحلات التي تقلع بعد موعد الإفطار بساعة والتي تتجاوز مدة طيرانها الساعة ونصف الساعة. أما بالنسبة للسحور، يتم تقديم وجبة السحور ابتداءً من الساعة الثانية عشر بعد منتصف الليل وحتى موعد الإمساك على الرحلات التي تستغرق مدة طيرانها أكثر من ساعة ونصف الساعة.</p>
+<p>وقد خصصت "السعودية" وجبات خاصة للمسافرين الصائمين على متن رحلاتها الداخلية خلال شهر رمضان المبارك، حيث تقدم لهم وجبات إفطار مكونة من التمر واللبن وبعض الساندويتشات وفطائر وحلويات عربية، وذلك على جميع الرحلات الداخلية والتي لا يسمح فيها بتقديم وجبات كاملة. كما تقدم وجبة الإفطار أيضاً على الرحلات التي يحين موعد الإفطار وقت استعداد الطائرة للهبوط أو التي تصل قبل موعد الإفطار في حدود ساعة، حتى يتمكن الصائمون من تناول إفطارهم بعد وصولهم، وذلك بتقديم الوجبة في مغلف تم تصميمه خصيصاً لهذا الغرض. وتأتي هذه الخدمات في إطار الجهود التي تبذلها "السعودية" لخدمة المسافرين خلال موسم العمرة الذي تبلغ ذروته في شهر رمضان المبارك. وقال الدكتور خالد عبدالله بن بكر، مدير عام "السعودية"، إن خطة "السعودية" في هذا الموسم ترتكز على توقعات بنقل أكثر من 3 ملايين مسافر عبر أكثر من 18 ألف رحلة داخلية وخارجية مجدولة وإضافية. وأكد بن بكر أن خطة "السعودية" لموسم العمرة هذا العام تهدف إلى دعم الاقتصاد الوطني بتنمية حركة العمرة وزيادة حصة "السعودية" من هذه الحركة واستقطاب الحركة العابرة للمسلمين بين الشرق والغرب والتركيز على الأسواق ذات الربحية والكثافة العالية في أعداد المسافرين خصوصاً في آسيا وأفريقيا والشرق الأوسط والخليج العربي.</p>
+
+</body>
+</text>
+</tei.2>
+

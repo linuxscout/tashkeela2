@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To14">
+<fileDesc>
+<titleStmt>
+<title>فندق قصر البستان انتركونتيننتال مسقط يواصل طرح عطلات صيفية جذابة تستمر حتى نهاية سبتمبر  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 206 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-09">Issue 140, 14 September, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>ما زال بإمكان السائحين من دول مجلس التعاون لدول الخليج العربية، الاستفادة من عروض فندق قصر البستان انتركونتيننتال مسقط الموسمية الجذابة خلال قضاء عطلة فصل الصيف في سلطنة عمان.</p>
+<p>وتسري عروض الفندق حتى 30 سبتمبر 2003م الجاري، وبإمكان الضيوف الإقامة في غرفة مزدوجة مقابل 45 ريال عماني لليلة شاملة بوفيه إفطار مجاناً كل صباح. كما يسمح بإقامة الأطفال تحت سن 12 سنة في غرفة والديهم مجاناً.</p>
+<p>ولا يبعد فندق قصر البستان انتركونتيننتال مسقط، الذي يعد أفخم الفنادق في منطقة الشرق الأوسط، سوى مسافة قصيرة من العاصمة مسقط وأسواق البازار الشعبية التقليدية والمواقع الأثرية والحصون والقلاع التاريخية التي اشتهرت بتشييدها السلطنة على مر العصور. كما يوفر شاطئاً خاصاً يمتد على مسافة كيلومتر يعد الوحيد من نوعه في مسقط ويوفر أقصى درجة من الخصوصية والراحة.</p>
+<p>وكان الفندق الذي يضم 200 غرفة و50 جناحاً فخماً، قد خضع في الآونة الأخيرة لبرنامج تجديد رئيسي شامل، وروعي خلالها المحافظة على طابعه التاريخي وتراثه العربي الغني، وخاصة تراث وتاريخ المنطقة التي يقع فيها الفندق بحيث بات يقدم لرجال الأعمال والسائحين الأبهة والفخامة والروعة بحلة جديدة، وأضيفت إلى تجهيزاته أحدث المعدات والتقنيات العصرية.</p>
+<p>وبإمكان ضيوف الفندق الاختيار من بين ثلاثة مطاعم تقدم أشهى المأكولات والأطباق الإيطالية والفرنسية والبحرية والبوفيهات المنوعة، وافتتح مؤخراً مطعماً رابعاً (شاينا مود) ليوفر تشكيلة متميزة من الأطباق الشرق آسيوية.</p>
+
+
+</body>
+</text>
+</tei.2>
+

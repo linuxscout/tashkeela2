@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD16">
+<fileDesc>
+<titleStmt>
+<title>    حكاية من الهند سرّ الدمى الثلاث</title>
+<author> هاشم حمادي   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 399 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-04">April 2003,Issue no 127</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p> يُحكى أن أحدَ الملوكِ أرادَ أن يمتحن أفرادَ رعيتهِ, ويعرفَ الأذكى من بينهم, ليجعلَ منه وزيره الأول, فأمر بصنعِ ثلاث دمى متشابهةٍ مع بعضِها البعض الآخر من حيثُ الحجمُ واللونُ والوزنُ والشكلُ.</p>
+<p>          ما إن أنجزت الدمى, وكانت متشابهة فعلاً, حتى كلف الملكُ واحداً من أمهرِ صنّاعه بإدخالِ بعضِ التعديلاتِ على الدمى الثلاثِ, دون أي تغيير لا في حجمِها, ولا في لونِها, ولا في وزنِها أو شكلِها. بحيث جاءت إحداها لا قيمة لها, والثانيةُ بخسةَ الثمن, بينما جاءت الثالثةُ باهظة الثمن.</p>
+<p>          وُضعت الدمى الثلاثُ في الساحةِ العامةِ, وأعلن المنادون أن الملكَ سيجزل العطاءَ لمن يكتشفُ السببَ الكامنَ وراء التفاوتِ بين هذه الدمى من حيثُ قيمتها, على الرغمِ من هذا التشابه, لا بلْ والتطابقِ فيما بينها.</p>
+<p>          بدأ الناسُ يتوافدون إلى الساحةِ, رجالاً ونساءً, شيوخاً وشباناً, وكل منهم يُمنّي النفس باكتشافِ السّر, لكن أياً منهم لم يَفُزْ بطائلٍ.</p>
+<p>          مرت الأيامُ والأسابيعُ فالأشهرُ دون أن يظهرَ ذلك الفطينُ الأريبُ, وكاد الملكُ يفقدُ الأملَ في ظهورهِ.</p>
+<p>          وفي أحدِ الأيام وصل الساحة شابٌّ في مقتبل العمرِ, واقتربَ من الدمى, وراح يتفحصها بإمعانٍ, فلاحظ وجود ثقب صغير في كل أذن من آذانها الستّ.</p>
+<p>          أخذ الشاب عوداً رفيعاً, طويلاً وليّناً, وأدخله في أُذن إحدى الدمى, فخرج العودُ من فمها, ولما أدخله في أذنِ الدمية الثانية إذ به يخرج من أذنِها الأخرى, وحين أدخله في أذن الثالثة فوجئ به يختفي في بطنِ الدمية, دون أن يظهر له أثر.</p>
+<p>          فَكّرَ الشابّ في الأمر ملياً, ثم أعلن للحراس أنه يستطيعُ إماطة اللثام عن السّر, وطلب أن يسمحوا له بالمثول في حضرة الملك.</p>
+<p>          ركع الشابَّ للملك إجلالاً, وقال:</p>
+<p>          - إن هذه الدمى, يا صاحب الجلالة, شبيهة بنا, نحن معشر البشر, فالدميةُ الأولى تشبه الإنسان الذي ما إن يؤتمن على سرّ من الأسرارِ حتى يقفَ على قارعةِ الطريقِ ويفشيه لكل عابرِ سبيلٍ. ومثل هذا الإنسان غيرُ جدير بالثقة, ولا يمكن أن يؤتمن على شيء, صَغُرَ أو كَبُرَ, ومن هنا فإن هذه الدمية لا قيمة لها, ولا تساوي شروى نقير.</p>
+<p>          وأما الدميةُ الثانيةُ فتشبه الإنسانَ الذي لا يأخذ بما يسدى إليه من نصائحَ, ولا يصغي لمن يوجههُ ويرشدهُ إلى الطريق القويم, والصراط المستقيم, فالكلام يدخل من أذنه, ويخرجُ من الأخرى, دون أي تأثير, ومن هنا فإن هذه الدمية لا جدوى منها, ولا فائدة تُرجى منها.</p>
+<p>          أما الدميةُ الثالثة والأخيرةُ, فتشبه الإنسان الذي يتكتم على أسرارِ الآخرين, فيحفظها, ولا يفشيها, ومثل هذا الإنسانِ جديرٌ بكل ثقة, ويمكن أن يؤتمنَ على كل شيء.ولهذا فإن الدمية الثالثة لا تقدر بثمن.</p>
+<p>          فرح الملكُ بذكاء الشابّ, وأجزلَ له العطاءَ, وعينه وزيرَه الأولَ, ومستشارَه والمشرفَ على تربيةِ ولي عهدهِ.</p>
+</body>
+</text>
+</tei.2>
+
+

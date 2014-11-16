@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To05">
+<fileDesc>
+<titleStmt>
+<title>مصر للطيران تفوز بدرع أفضل منظم للبرامج السياحية في السوق السعودية   </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 385 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>فازت مصر للطيران بدرع أفضل شركة طيران عربية منظمة للبرامج السياحية في المملكة العربية السعودية على مدار العام، وذلك في استفتاء أجرته جريدة "أخبار السياحة السعودية" الشهرية التي تصدر في محافظة جدة. وقد قام رائد حسن حابس، العضو المنتدب للجريدة، بتسليم الدرع إلى سمير امبابي، مدير عام مصر للطيران في منطقة الشرق الأوسط والسعودية، في حفل خاص. وقال سمير إمبابي في تصريح لمجلة</p>
+<p>بهذه المناسبة؛ أن فوز مصر للطيران بهذا الدرع لم يأت من فراغ وإنما جاء تتويجاً لجهود كبيرة مبدعة قام بها مصممو البرامج السياحية وخبراء التسويق لديها إرضاءً لعملائها.</p>
+<p>وفي سبيل ذلك فإنها تقوم بعمل الدراسات التسويقية المبنية على الاستبيانات التي توضح لها اتجاهات عملائها ورغباتهم، ومن ثم تقوم بعمل البرامج السياحية التي يطلبونها. فبعد النجاح الكبير الذي تحقق لبرنامج الرحلة الشاملة (التذكرة + الانتقالات المريحة + الإقامة في فنادق الخمسة نجوم) وأيضاً برنامج (رحلة نهاية الأسبوع)، تم عمل برنامج (الرحلة الجوية البحرية) إلى الاسكندرية جواً ومنها إلى ميناءين بالبحر المتوسط، وهو البرنامج الذي أعد له إعداداً جيداً إلا أنه لم يطرح هذا الصيف، وسيتم طرحه لعملاء مصر للطيران الموسم القادم. واختتمت تلك البرامج لصيف هذا العام ببرنامج (رحلات الأفراح) الذي يتضمن مايلي:</p>
+<p> الحجز للأعداد المطلوبة للمناسبة بالطائرة إلى شرم الشيخ، وإذا كان العدد يتسع لطائرة كاملة فيتم تأمين طائرة كاملة للمناسبة (وفقاً للعدد المطلوب).</p>
+<p> حجز الفنادق لنفس الأعداد المحجوز لها على الطائرة.</p>
+<p> حجز القاعة التي سيقام فيها الفرح، مع الأخذ في الاعتبار توفير كل الطلبات والتفاصيل التي يرغبها العميل للمناسبة. ورغم أن هذا البرنامج تم طرحه حديثاً، إلا أنه حقق نجاحاً كبيراً هذا الصيف، وسيتم التوسع فيه وتطويره إن شاء الله في المواسم المقبلة، نظراً لأن هذا البرنامج يمكن الاستفادة منه طوال العام وخلال مختلف المواسم.</p>
+<p>وقال رائد حسن حابس في تصريح مماثل لمجلة</p>
+<p>بأن جريدة "أخبار السياحة السعودية"، وهي أول جريدة من نوعها في السوق السعودية بل وفي العالم العربي متخصصة في أخبار السياحة والسفر وشؤونها وقضاياها باللغة العربية واللغة الانجليزية، قد أجرت الاستفتاء للتعرف على آراء قرائها والمختصين في مجال السفر والسياحة في السوق السعودية بعد التحول الواضح للمسافرين والسياح العرب إلى وجهات عربية وإسلامية بدلاً من الوجهات الغربية والشرقية في ضوء تأثير بعض الأحداث مثل مرض سارس والمضايقات العنصرية لأولئك المسافرين والسياح في كثير من مطارات الدول الأجنبية، ولتحفيز شركات الطيران العربية للإبداع في مجال تقديم البرامج السياحية المتميزة كوسيلة لتنشيط السياحة في الدول العربية والإسلامية والاستفادة من مواردها السياحية الهائلة بدلاً من ذهابها إلى خارجها.</p>
+<p></p>
+
+
+</body>
+</text>
+</tei.2>
+

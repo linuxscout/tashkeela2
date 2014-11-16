@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To09">
+<fileDesc>
+<titleStmt>
+<title>فندق جورج الخامس أفضل فندق في العالم للسنة الثالثة على التوالي أكثر من 300 مليون دولار أمريكي استثمرها الأمير الوليد أعاد بها للفندق الباريسي رونقه وتألقه$  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 276 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>صنفت مجلة "أندرو هاربرز هايد أواي" المتخصصة في أخبار صناعة الفنادق عالمياً فندق فور سيزنز جورج الخامس بباريس، المملوك للأمير الوليد بن طلال بن عبدالعزيز آل سعود، كأفضل فنادق العالم الفخمة وذلك للعام الثالث على التوالي. وورد التصنيف في الاستفتاء السنوي الثاني والعشرين الذي تنشره المجلة. وذكرت المجلة التي تتخصص بأخبار وشؤون صناعة الفنادق والسياحة، بأن الفنادق الفرنسية وخاصة الباريسية منها أصبحت وجهة أصحاب الذوق الرفيع من المسافرين والسياح، مما أدى إلى تصدر الفنادق الباريسية الفخمة لقائمة أفضل فنادق العالم متفوقة بذلك على الفنادق الفخمة الآسيوية. واعتبرت المجلة أن فندق جورج الخامس لا يعتبر متميزاً ببناءه ورونقه المعماري فقط، بل بخدماته وإدارته من قبل فريق متخصص يعمل على مدار الساعة على راحة عملائه وزواره، ويحطيهم بجو متميز من الفخامة والروعة والخدمة. وكانت صحيفة لوتيليري قد أصدرت تقريراً في سبتمبر 2002م بعنوان "فندق فور سيزنز جورج الخامس أفضل فندق فخم في العالم للعام 2002-2003م". كما نشرت مجلة فوربز جلوبال في عددها الصادر في مارس 2002م نتيجة استفتاء عالمي حول أفضل فنادق العالم شمل شريحة عددها 25 ألف من رجال الأعمال من أصحاب القرار مثل رؤساء شركات، ومدراء تنفيذيين، وأصحاب شركات، وشركاء ممن يتطلب عملهم السفر بكثرة والبقاء في فنادق توفر لهم خدمات متميزة لتسهيل أعمالهم، وحاز فندق جورج الخامس على مرتبة أفضل فندق في العالم.</p>
+<p>وكان الأمير الوليد قد اشترى هذا الفندق الباريسي المتميز في عام 1996م بمبلغ 178 مليون دولار أمريكي ليعيد ترميمه بالكامل مما استدعى إغلاقه لمدة سنتين (منذ منتصف 1997م) ليعاد افتتاحه بحلته الجديدة في ديسمبر من عام 1999م. وقد بلغت تكلفة ترميم الفندق 125 مليون دولار أمريكي، لتصل بذلك التكلفة الإجمالية للمشروع إلى 303 مليون دولار أمريكي. وهذا يعكس مدى الذوق والفخامة والعناية التي أولاها الأمير الوليد لإعادة البهجة والرونق لهذه التحفة الباريسية.</p>
+<p></p>
+
+
+</body>
+</text>
+</tei.2>
+

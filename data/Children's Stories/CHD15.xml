@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD15">
+<fileDesc>
+<titleStmt>
+<title>  سارة تعرف البحر</title>
+<author> نعمات البحيري   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 467 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-04">April 2003,Issue no 127</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="F" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p>          في نهاية الأسبوع ذهبت (سارة) مع أبيها وأمها في رحلة قصيرة إلى شاطئ البحر. قطعت السيارة بهم مسافة طويلة وكانت (سارة) تتابع طريق الأشجار.</p>
+<p>          وصلت السيارة إلى المدينة الساحلية و(سارة) مازالت تلاحق أمها وأبيها بأسئلة عن السفر والمدينة الجميلة.</p>
+<p>          استقرت العائلة الصغيرة في بيت صغير على الشاطئ, وراحت (سارة) تتحرك في أرجاء البيت لتستكشف المكان. وقبل أن تغير ثيابها نظرت من الشرفة فرأت البحر يهدر من بعيد. لم تكن (سارة) قد عرفت البحر من قبل فأبدت دهشة كبيرة ثم سألت أمها:</p>
+<p>          - من الذي سكب كل هذا الماء على الأرض يا أمي?</p>
+<p>          ضحكت أم (سارة) ودخلت المطبخ لتعد طعام الغداء, فقد كانت الرحلة طويلة وشاقة, نظرت (سارة) مرة ثانية للبحر وأبدت دهشة كبيرة وهي تسأل أبيها:</p>
+<p>          - من الذي سكب كل هذا الماء على الأرض يا أبي?</p>
+<p>          ضحك والد (سارة) ودخل يساعد زوجته في إعداد الطعام.</p>
+<p>          وقفت سارة وحدها في الشرفة تنظر إلى البحر وتتأمل الماء المسكوب على الأرض وتتساءل في نفسها:</p>
+<p>          - لماذا يتركون كل هذا الماء هكذا على الأرض? ابتعدت عنه إلى باب البيت مسرعة.</p>
+<p>          - يجب أن أفعل شيئا...</p>
+<p>          نزلت سارة من البيت وسارت في اتجاه البحر. كانت تسير على طريق الأسفلت. وما أن اقتربت من الشاطئ حتى بدت الرمال ناعمة للغاية. وقفت سارة على الرمال فغاصت قدماها وبدت تتحرك على الرمال بصعوبة في اتجاه الماء المسكوب على الأرض وهي تنظر في دهشة.</p>
+<p>          كانت الأمواج تأتي من بعيد, من قلب البحر و(سارة) تقترب شيئا فشيئا من البحر ثم تبتعد فتلاحقها الأمواج.</p>
+<p>          بدت (سارة) حائرة مع أمواج البحر التي تتدافع في اتجاهها. بعد وقت عادت إلى البيت مسرعة وهي تقول لنفسها:</p>
+<p>          - لابد أن أفعل شيئا...</p>
+<p>          كانت أم (سارة) تبحث عن ابنتها في أرجاء البيت وحين نظرت من الشرفة وجدت سارة وقد أتت بدلوها البلاستيكي الأحمر والجاروف وراحت تملأ الجاروف من ماء البحر وتسكبه في الدلو, ثم تذهب بعيدا لتسكب الدلو على الرمال وتعود لتملأ الدلو من جديد.</p>
+<p>          كانت (سارة) تريد أن تنزح ماء البحر.</p>
+<p>          ظلت (سارة) فترة طويلة تنزح الماء بالجاروف وتملأ دلوها الأحمر وتذهب لتسكبه على رمل الشاطئ.</p>
+<p>          كانت (سارة) كلما نزحت بعض الماء تعود لتنظر إلى البحر فتجد أنه لم ينقص شيئا, كما كانت الرمال تمتص الماء سريعا.</p>
+<p>          ظلت (سارة) تملأ دلوها وتسكبه على الرمل حتى تعبت.</p>
+<p>          بدا العرق الغزير يسيل على جبينها.</p>
+<p>          جاء والد (سارة) بكراسي البحر الملونة ورصها قريبا من الماء, وثبت الشمسية وفردها ونادى ابنته التي كانت مازالت تنزح البحر.</p>
+<p>          ضحكت أم (سارة) وقالت لابنتها...</p>
+<p>          - لن تستطيعي أن تنقصي من البحر شيئا.</p>
+<p>          وقال والد (سارة) لابنته:</p>
+<p>          - حقا لن تستطيعي أن تنقصي من البحر شيئا.</p>
+<p>          قالت سارة:</p>
+<p>          - بحر... أي بحر!</p>
+<p>          قال الأب:</p>
+<p>          - البحر هذا الذي أمامك وتظنينه ماء مسكوبا على الأرض?</p>
+<p>          كانت (سارة) تنظر في دهشة, فأمسكها والداها كل من يد ودخلا بها الماء..</p>
+<p>          قالت الأم:</p>
+<p>          - الآن جاء وقت التعارف بين البنت الصغيرة (سارة) والبحر.</p>
+<p>          في البدء شعرت (سارة) بخوف من الماء ثم سرعان ما ألفت صوته يهدر ويأتي بالأمواج لتداعب قدميها وذراعيها وشعرها ووجهها.</p>
+</body>
+</text>
+</tei.2>
+
+

@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="Rec09">
+<fileDesc>
+<titleStmt>
+<title>  Recipes </title>
+<author> Unknown   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> HH Saudi Research and Marketing (U.K) LIMITED</publisher>
+<pubPlace> UK </pubPlace>                 
+<date>2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.sayidaty.net/sayidaty/1193/food/food.htm</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 353 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2004-01">issue 1193, January 21, 2004</date>
+<rs type="city">London, UK</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Recipe">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div1	n='1'	id='Rec09-1'>
+<p>  كعكة الجزر</p>
+<p>المقادير:</p>
+<p></p>
+<p>ـ 150 غرام دقيق ـ 150 غراما من دقيق الذرة ـ ملعقتان من بيكاربونات الصودا ـ نصف ملعقة ملح ـ ملعقتان من خليط البهارات ـ 8 ملاعق من الجوز المبشور ـ نصف كيلو جزر محكوك ـ قشرة برتقالة محكوكة ـ 3 بيضات ـ ربع كيلو سكر بني ناعم ـ كوبان من زيت دوار الشمس </p>
+<p>مقادير التزيين:</p>
+<p>ـ علبة من القشدة الطرية ـ قشرة ليمونة محكوكة ناعما ـ 3 ملاعق من عصير الليمون ـ 4 ملاعق سكر ناعم.</p>
+<p>طريقة التحضير:</p>
+<p>1 ـ في حلة العجن، انخلي الدقيق وبيكاربونات الصودا والملح وخليط البهارات، ثم اضيفي اللوز والجزر المحكوك وقشرة البرتقال، وضعي حفرة صغيرة في الوسط 2 ـ اسكبي فوقها البيض والسكر والزيت بعد خفق المقادير جيداً، ثم اخلطي الخليط جيداً حتى تحصلي على عجين ناعم 3 ـ اسكبيه داخل صينية فرن مربعة، ثم ادخلي الصينية إلى فرن تبلغ درجة حرارته 180 مئوية، واتركي الكعكة بداخله لمدة 40 دقيقة أو حتى تنتفخ ويتضاعف حجمها، ثم اتركيها جانباً لتبرد 4 ـ لتزيين الوجه اخفقي القشدة الطرية مع قشرة الليمون وعصيره والسكر الناعم، ثم مدي هذا الخليط فوق كعكة الجزر.</p>
+<p>ملاحظة:</p>
+<p>ـ نسبة السعرات الحرارية: 360 سعرة حرارية</p>
+<p>ـ نسبة الدهنيات: 25 غراما</p>
+</div1>
+<div1	n='2'	id='Rec09-2'>
+<p> كعكة الليمون والفراولة</p>
+<p>المقادير:</p>
+<p>ـ 4 أٿٿاب متٿسطة من دقيق الحلٿيات ـ ٿٿبا سٿر ناعم ـ ملعقة من بيٿاربٿنات الصٿدا ـ قشرة ليمٿنة محٿٿٿة ناعما ـ 3 بيضات مخٿٿقة ـ ٿٿب شٿٿٿلاته مذٿبة ـ 4 ملاعق من عصير الليمٿن ـ ٿٿب من زيت دٿار الشمس ـ نصٿ ملعقة ملح ـ ربع ٿيلٿ ٿراٿلة.</p>
+<p>طريقة التحضير:</p>
+<p>1 ـ حمي الٿرن حتى تصل درجة حرارته الى 180 مئٿية، ٿٿي انتظار ذلٿ انخلي الدقيق ٿالسٿر ٿبيٿاربٿنات الصٿدا ٿقشرة الليمٿن ٿي حلة العجن 2 ـ اعملي حٿرة متٿسطة ٿي الٿسط، ثم اسٿبي ٿيها البيض ٿالزيت ٿعصير الليمٿن. اخلطي المقادير جيداً حتى تحصلي على عجين لين، ثم اسٿبيه داخل صينية ٿرن مربعة 3 ـ ادخلي الصينية إلى الٿرن، ثم اترٿي الٿعٿة تنضج بداخله لمدة 40 دقيقة أٿ حتى يتضاعٿ حجمها 4 ـ قطعي الٿراٿلة إلى أنصاٿ، ثم زيني بها الٿعٿة بعد تقطيعها لمربعات متساٿية الحجم، ٿقبل تقديمها للضيٿٿ زينيها بالشٿٿٿلاته المذٿبة مثلما تٿضح الصٿرة.</p>
+<p>ملاحظة:</p>
+<p>ـ نسبة السعرات الحرارية: 310 سعرات حرارية</p>
+<p>ـ نسبة الدهنيات: 18 غراما</p>
+
+</div1>
+</body>
+</text>
+</tei.2>
+

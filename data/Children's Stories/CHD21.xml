@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD21">
+<fileDesc>
+<titleStmt>
+<title>شجرة العصافير </title>
+<author>جبير المليحان    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Jubeer Al-Muleehan, Saudi Arabia</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2000-2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.arabicstory.net </p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 568 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2000-2004">2000-2004</date>
+<rs type="city">Reyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc ana="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue" active="single"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Saudi </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>            استيقظ العصفور من نومه .. و وجد نفسه وحيدا في العش . طار عاليا ، و مر فوق أشجار كثيرة ، ثم حط على غصن شجرة عالية .. التفت فيما حوله ، و وجد نفسه في الغابة الكبيرة : </p>
+<p>  أشجار كثيرة ، ضخمة تتشابك أغصانها كائنات كثيرة تتحرك على الأرض : أسود ، نمور ، فيلة ، ذئاب ، ضباع ، ثعالب ، قرود .. و حيوانات صغيرة كثيرة، و حيوانات زاحفة ، و أخرى تعوم سابحة في مياه الجداول الجارية ، و الأنهار الصغيرة .. و طيور بأشكال متنوعة ، و أحجام مختلفة .. </p>
+<p>  كل شيء يتحرك .. كل شيء يصدر صوتا أو أصواتا ، بعض هذه الأصوات عال ، و بعضها خفيض , بعضها ناعم ، و بعضها له دوي شديد .. حتى الأشجار تصدر صفيرها و هي تتمايل بأغصانها .. و الغيوم سوداء فوق رؤوسها .. </p>
+<p>  وجد العصفور نفسه وسط هذا الجو المظلم الصاخب و أحس برعب كبير .. أحس بالضياع .. طار بكل قوته عائدا إلى الوراء .. باحثا عن عشه الصغير الجميل الدافئ الذي تركه في الصباح .. كان يرتعش و هو يبحث بعينيه الصغيرتين عن العش .. </p>
+<p>  اسمتر في طيرانه ساعة و هو يدقق نظره في كل شبر تحته بحثا عن العش .. لكنه لم يجد العش .. </p>
+<p>  تعب العصفور ولم يجد العش .. فحط على غصن شجرة ، و هو يلهث ، و قال محدثا نفسه : </p>
+<p>  ( أنا خائف .. أين عشي ؟ أريد عشي .. ما أعلا أصوات الغابة ، و أكثر حيواناتها .. أين أخوتي العصافير ؟ أين أغانيها و زقزقاتها ) و أخذ يبكي . </p>
+<p>  أثناء بكائه سمع زقزقة جميلة .. صوتا صغيرا يعرفه و يحبه .. سكت ، و التفت إلى جانبه كان عصفور صغير مثله يحدق فيه .. كان على الغصن القريب منه .. قفز إلى جانبه .. و حيّاه .. و تحدّث معه .. </p>
+<p>  كان العصفور الآخر خائفا مثله .. هو أيضا دخل الغابة السوداء و شاهد الأصوات الكثيرة و الحيوانات الضخمة فخاف ، لكنه لم يجد طريق العودة .. لقد أضاع بيته .. وهو وحيد و خائف .. تحادث العصفوران .. و التفتا إلى حيث أصوات ناعمة تدور حولهما .. نظرا في الأغصان و وجدا عصافير كثيرة تنتظر خائفة .. صاح العصفور الصغير بفرح داعيا العصافير الأخرى إلى الاقتراب .. تجمعت العصافير فوق غصن كبير .. و هي فرحة .. أحست بالدفء ، و طار الخوف من عيونها اللامعة .. و استقرت أجنحتها .. تحدث أكثر من عصفور .. كان حديثا هادئا .. و اتفقت أن تجعل من هذه الشجرة الكبيرة بيتا لها .. قال عصفور : </p>
+<p>  لقد كنت صغيرا ، و دربتني أمي على الطيران .. لكنني أضعت عشي </p>
+<p>  قال آخر : </p>
+<p>  كل العصافير تغادر أعشاشها عندما تكبر ، و تبني لها أعشاشا جديدة . </p>
+<p>  و قال آخر : </p>
+<p>  نعم ، و لكن العصافير تحب أن تعيش مع بعضها ..تجلس معا ، و تأكل معا ، و تطير معا ، و تلعب ... </p>
+<p>  قال آخر : </p>
+<p>  نعم .. نتعاون في حياتنا . </p>
+<p>  قال آخر : </p>
+<p>  هيا نوزع أنفسنا .. هذا هو بيتنا . </p>
+<p>  توزعت العصافير إلى مجموعات : المجموعة الأولى تحضر أعواد القش و الريش ، و الأخرى تبني الأعشاش على الأغصان القوية، و الأخرى طارت قريبا لتحضر طعام الغداء ..و الأخرى ترفرف حول الشجرة ، و تراقب الجهات ، و هي تغرد بألحان جميلة لتسلية العاملين ... </p>
+<p>  عند الظهر .. كان صف من الأعشاش الناعمة والدافئة ، كقرية صغيرة نظيفة ، قد ملأ أغصان الشجرة .. </p>
+<p>  اختار كل عصفور جاره .. و استقر في بيته بأمان مطلقا ألحانه في الفضاء .</p>
+      
+
+</body>
+</text>
+</tei.2>
+
+

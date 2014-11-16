@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD11">
+<fileDesc>
+<titleStmt>
+<title>   اللعب مع الآخرين</title>
+<author> مجدي نجيب   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 299 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-03">March 2003,Issue no 126</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p>          أراد الفيل الصغير في وقت العصاري أن يلعب مع الحيوانات أو الطيور, لأن كل أصدقائه ذهبوا للاستحمام في النهر, فسار في طريقه على أمل أن يقابل من يلعب معه, شاهد عصفورة تتحرك على الأرض وهي تتقافز في رشاقة, فلما رأته خافت وطارت على أقرب شجرة وهي ترتعش.</p>
+<p>          قال لها الفيل الصغير في تودد:</p>
+<p>          - لا تخافي إنني أريد اللعب معك.</p>
+<p>          استغربت العصفورة وردت عليه:</p>
+<p>          - أنت كبير الحجم جدا بالنسبة إلى حجمي, وأنت لا تملك أجنحة, وبالتالي لا تستطيع الطيران, ولذلك من الصعب أن نلعب معا.</p>
+<p>          ثم طارت العصفورة مبتعدة وهي تؤكد أن الفيل قد أصابه الجنون!</p>
+<p>          أما الفيل, فقد أصابه الحزن, وعلى الأخص أنه بلا أجنحة, وبالتالي لا يستطيع الطيران والتنقل فوق الأشجار والمنازل العالية.</p>
+<p>          قابل بعد ذلك أحد الغربان وهو يحجل على الأرض كأنه يلاعب نفسه, فطلب منه أن يلعب معه.</p>
+<p>          اندهش الغراب من طلب الفيل, وظن أنه موفد من بائع الجبن الذي سرق منه قطعة كبيرة منذ أيام لكي يقبض عليه, فتوجس منه وبدأ يتمتم بصوته المزعج, فطمأنه الفيل بأنه لا يجد من يلعب معه, وهو يؤمن بفكرة السلام مع الجميع!</p>
+<p>          ولكن الغراب حاول إغلاق باب المناقشة, فأخبر الفيل عن صعوبة اللعب معه لخوفه من الوقوف على الأرض كثيرا بسبب بعض الأولاد الذين لا يحبونه ويضمرون له الشر, وبالتالي فلن يتمكن من الصعود على أي شجرة ليلعبا معا, مما يجعل مشروع اللعب مشروعا فاشلا لا يصلح لهما.</p>
+<p>          بعد ذلك, لمح الفيل الصغير أحد الفئران وهو يتحرك وكأنه في مناورة حربية, فطلب منه أن يلعب معه, ولكن الفأر نظر إلى الفيل في ريبة شديدة, وابتعد عنه وهو يزمجر غاضبا:</p>
+<p>          - لا, ليس الموضوع حكاية لعب معي, فلابد أنك أحد جواسيس القطط, تحاول الإيقاع بي لكي يتم افتراسي?!</p>
+<p>          ثم تركه دون أن يودعه, واختفى في لمح البصر.</p>
+<p>          انزعج الفيل الصغير, وتأكد أنه لن يستطيع اللعب إلا مع الأفيال وقرر أن يستمر في محاولاته بتخطي الفروق بينه وبين الآخرين.</p>
+</body>
+</text>
+</tei.2>
+

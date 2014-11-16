@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To11">
+<fileDesc>
+<titleStmt>
+<title>"السعودية" تشارك في معرض جاتا باليابان برنامج "اكتشف المملكة" يجذب اليابانيين </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 328 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>شاركت الخطوط الجوية العربية السعودية "السعودية" بمعرض السياحة والسفر الدولي (جاتا)</p>
+<p> والذي أقيم في مدينة يوكوهاما اليابانية خلال الفترة من 3-5 أكتوبر 2003م الماضي، وشاركت فيه أكثر من 8 آلاف شركة طيران عالمية والعديد من منظمات السياحة الإقليمية في آسيا وأفريقيا وأوروبا ووكالات السفر والسياحة.</p>
+<p>صرح بذلك عبدالله سلمان الجهني، مساعد المدير العام للدعاية وبرامج التسويق بالخطوط الجوية العربية السعودية، وقال أن معرض جاتا كان بمثابة نافذة عريضة ألقت "السعودية" من خلالها الضوء على برامجها المختلفة في مجال تنشيط السياحة الداخلية والعمل على زيادة أعداد السياح اليابانيين وغيرهم من المجموعات السياحية.</p>
+<p>وأشار الجهني إلى أن "السعودية" عرضت بجناحها بالمعرض إنجازاتها المختلفة والخدمات التي تقدمها للمسافرين على متن طائراتها، والبرامج السياحية التي تقدمها ضمن برنامج "اكتشف المملكة"، إضافة إلى إبراز دورها في خدمة المجتمع وإسهامها في ربط مدن المملكة العربية السعودية بشبكة رحلات سريعة وآمنة تمتد إلى 26 مطار داخلي و52 مطار دولي.</p>
+<p>وأشار الجهني إلى أن "السعودية" نجحت عبر برنامج "اكتشف المملكة" في استقطاب مئات السياح اليابانيين سنوياً منذ بدأ تنظيم هذا البرنامج حتى منتصف عام 2003م، حيث قامت بتسيير رحلات خاصة مباشرة من اليابان إلى المملكة العربية السعودية نقلت عبرها أكثر من 1394 سائحاً يابانياً. ويشمل برنامج "اكتشف المملكة" زيارات إلى عدد من المدن السعودية والمواقع الأثرية في كل من الرياض وجدة والهفوف ونجران والطائف وأبها والجوف وتبوك والعلا وجازان وجزر فرسان وحائل، وتتراوح مدة البرنامج ما بين أسبوع إلى ثلاثة أسابيع تبعاً لعدد المواقع التي يتضمنها برنامج الزيارة.</p>
+<p>واختتم الجهني تصريحه بالتأكيد على أهمية التسويق السياحي من خلال تبني منهج استراتيجي لإدارة علاقات السياح بحيث يكون السائح محور الارتكاز والإيمان بأنه بدون السائح فلن تكون هناك سياحة. واستعرض الجهني أهمية الدراسات والبحوث الدورية والمستمرة لقياس مدى رضا السياح في إطار تطور العملية السياحية في مجملها، والدور المأمول من الهيئة العليا للسياحة لتطوير المنتج السياحي للمناطق الإدارية الثلاثة عشر في المملكة العربية السعودية مع التركيز على الميزة التنافسية الخاصة بكل منطقة على مدار العام، وزيادة الاستثمارات السياحية وتخصيص ما لا يقل عن 5،1% من الإيرادات المتوقعة للانفاق على الإعلانات الخدمية، وأخيراً قيام شركة سعودية مساهمة للتسويق السياحي.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+

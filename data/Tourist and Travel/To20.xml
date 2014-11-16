@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To20">
+<fileDesc>
+<titleStmt>
+<title>أهداف مؤتمر "السعودية" الثاني لمطوري خدمات العمرة والزيارة  </title>
+<author>د. خالد عبدالله بن بكر      </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 404 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Male" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>General Manager of Saudi Airlines</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>يموج العالم بالصراع والمنافسة من أجل تنمية السياحة واستقطاب أكبر عدد ممكن من السياح</p>
+<p> كمصدر للدخل القومي وتحقيق سلسلة مترابطة من المنافع المنظورة وغير المنظورة. ويبلغ هذا الصراع ذروته في إنفاق الشركات السياحية في العالم الملايين للحصول على أكبر حصة في سوق السياحة العالمية. وإذا أخذنا في الاعتبار هذه الحقيقة الماثلة أمامنا والتي نلمسها جميعاً بعد أن خص الله بلادنا بوجود الحرمين الشريفين على أرضها الطاهرة، لنا أن نتساءل معاً...</p>
+<p>@ إذا كانت الحكومة السعودية تقدم الدعم بلا حدود وتوجه كافة القطاعات بأن تتضافر جهودها لتنمية حركة العمرة والزيارة وتقديم أفضل الخدمات.</p>
+<p>@ إذا كنا نلمس جهود وزارة الحج والجهات الحكومية الأخرى ذات العلاقة في تسهيل إجراءات تطبيق نظام العمرة الجديد بما يخدم هدفنا في زيادة حركة العمرة.</p>
+<p>@ إذا كنا جميعاً نؤكد رغبتنا القوية في تطوير التعاون بيننا.</p>
+<p>@ إذا كنا نتفق على وحدة الهدف والأسلوب.</p>
+<p>== هنا لنا أن نتساءل معاً... ماذا يتبقى لكي نستقطب الملايين ممن تهفوا قلوبهم للأراضي المقدسة؟ وماذا يتبقى لكي نحقق التنمية المرجوة لحركة العمرة وبخاصة استقطاب الحركة الواعدة من العمرة العابرة والتي تحمل آفاقاً غير محدودة للنمو السريع والمتواصل؟</p>
+<p>== ويأتي الجواب ... يتبقى أن نبذل المزيد من الجهد، وأن نعمل كفريق واحد وبأعلى مستويات التنسيق، وأن نعتمد جميعاً الأسلوب العلمي والواقعي لكي نصل إلى نهج فعال لتنمية حركة العمرة.</p>
+<p>أفكار تطويرية</p>
+<p>@ ضرورة العمل على خفض تكلفة رحلة العمرة، بما يتطلبه ذلك من مراجعة جميع العناصر التي يمكن أن تسهم في تحقيق هذا الهدف.</p>
+<p>@ تخفيض الشروط والإجراءات إلى أدنى حد ممكن، حتى لا تتبدد طاقة المعتمر واستعداده النفسي للرحلة المقدسة في إجراءات ومتطلبات يمكن اختصارها.</p>
+<p>@ علينا أن نتناول بالدراسة والتحليل تجارب المواسم السابقة مستفيدين من كل الآراء، لأن أولى خطوات النجاح تتمثل في الاستفادة من الدروس والمواقف السابقة.</p>
+<p>@ العمل على توزيع حركة العمرة على مدارالعام وتكثيفها في فترات غير المواسم لكي تتحقق الاستفادة المرجوة للاقتصاد الوطني على مدار العام.</p>
+<p>@ تكوين وحدة استراتيجية تضم ممثلي الجهات الحكومية ذات العلاقة بخدمات المعتمرين للتخطيط والتنسيق المبكر لمواسم العمرة وتذليل كافة الصعاب التي تواجه تطبيق الخطة على أرض الواقع.</p>
+<p>لقد أسهم مجلس "السعودية" الاستشاري مع مطوري خدمات العمرة والزيارة في توثيق التعاون بين الجميع من خلال اجتماعاته التي عقدها منذ تأسيسه. وأنا أعتبر هذا المجلس بمثابة الإطار العملي لجهود التطوير حالياً ومستقبلاً.</p>
+<p>وأرجو من هذا المجلس أن يركز جهوده عى تطوير حركة العمرة العابرة التي تتطلب منا كثيراً من الجهد لتعظيم الفائدة من تدفقها المأمول، ووفرتها الكبيرة، وتطلع الملايين للتوقف في بلادنا لأداء العمرة خلال سفرهم بين الشرق والغرب.</p>
+<p>@ مدير عام الخطوط الجوية العربية السعودية.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+

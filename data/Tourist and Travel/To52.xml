@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To52">
+<fileDesc>
+<titleStmt>
+<title>
+قصر البستان انتركونتيننتال مسقط.. عالم بكر</title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 106 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 109, 2 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>فاز فندق قصر البستان إنتركونتيننتال مسقط مؤخراً بلقب "طليعة فنادق الشرق الأوسط"، نتيجة لاستفتاء بالانترنت لوكلاء السفر الدوليين جري خلال حـفل جوائز السفر العالمى السنوى للاحـتفال بالإنجازات الكبيرة فى صناعة السياحـة والسفر العالمية. وقام وكلاء السفر بترشيح الفندق الفائز فى موقع "وورلد ترافيل أوارد" الذى تأسس عام 1993م. وجري اختيار الفنادق المرشحـة للفوز بالجوائز اعتماداً علي استفتاء العام الماضى. ووزعت الجوائز علي عدد من الفنادق حـول العالم وبعض المناطق والأسواق السياحـية.</p>
+<p>يذكر أن فندق قصر البستان إنتركونتيننتال مسقط، يعد واحـداً من 116 منشأة إنتركونتيننتال وكراون بلازا وهوليدى إن تديرها شركة فنادق ومنتجعات باس فى الشرق الأوسط وأفريقيا، بالإضافة إلي 25 منشأة قيد الإنشاء والتطوير فى المنطقة.</p>
+
+
+</body>
+</text>
+</tei.2>
+

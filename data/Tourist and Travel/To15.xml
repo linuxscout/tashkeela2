@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To15">
+<fileDesc>
+<titleStmt>
+<title>عروض ريفل ألب تجذب السائحين العرب لأجمل منتجع أوروبي في كافة الفصول  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 97 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-09">Issue 140, 14 September, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>يواصل أحد أفضل المنتجعات الأوروبية في منطقة الباين السويسرية استقبال السائحين العرب خلال الفترة المتبقية من فصل الصيف، قبل أن يشرع بطرح تشكيلة جديدة من عروض العطلات الشتوية. ويوفر منتجع ريفل ألب في بلدة زيرمات في جنوب سويسرا أجمل المناطق السياحية لضيوفه العرب، والتنزه على سفوح الألب وسط طبيعة خلابة، بالإضافة إلى فعاليات وأنشطة ترفيهية عديدة في البلدة مثل مختلف الرياضات الشيقة والمهرجانات الموسيقية والثقافية. وبإمكان الضيوف الوصول إلى منتجع ريفل ألب، الواقع على ارتفاع 2222 متر فوق سطح البحر، بواسطة القطار في رحلة عبر الجبال تستغرق 20 دقيقة تتخللها مناظر طبيعية خلابة لقمة جبل ماتر هورن. </p>
+
+</body>
+</text>
+</tei.2>
+

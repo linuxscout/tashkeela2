@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To19">
+<fileDesc>
+<titleStmt>
+<title>تحالف مجموعة فنادق سويسرية فخمة مع كلارينز رائدة العناية بالبشرةبطرح عروض سبا جذابة للمسافرين العرب   </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 320 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>اتحدت جهود مجموعة فنادق زايلر السويسرية الفخمة الواقعة في قرية زيرمات مع كلارينز العلامة التجارية الرائدة للعناية بالبشرة بتقديم عروض سبا جذابة للسائحين والزائرين العرب خلال هذا الصيف.</p>
+<p>وقامت شركة كلارينز بإجراء ترتيب تقديم عروض السبا والعناية بالبشرة بإرسال فريق متخصص من المحترفين الأكفاء إلى مجموعة فنادق زايلر في قرية زيرمات بجنوب سويسرا في منطقة الباين الشهيرة بمناظرها الطبيعية الخلابة على علو 1600 متر فوق سطح البحر، حيث الهواء العليل النقي في المناطق الجبلية المحيطة بقرية زيرمات يعيد الحيوية والنشاط لأي سائح.</p>
+<p>وتبدأ أسعار العروض من 1114 فرنك سويسري (820 دولار أمريكي) للشخص في غرفة مزدوجة ويشمل عرض موناليزا الذي يستغرق يومين، تجديد الشباب، تجميل الحواجب، شد ودوزنة الجسم وتقليم الأظافر وصقلها، تدليك البشرة باليدين والعناية بالأقدام والأظافر، كما تحصل السيدات على مشورة خاصة عن أساليب العناية بالبشرة وتقنيات الماكياج، بينما يمكن لأعضاء الأسرة المرافقين الإقامة مقابل 600 فرنك سويسري (442 دولار أمريكي).</p>
+<p>وتوفر كلارينز ومجموعة فنادق زايلر أيضاً عرض الباين بيوتي (جمال الباين)، الذي يستغرق خمسة أيام من معالجات السبا، بالإضافة إلى معالجات تقشير البشرة، العلاج الحراري، تدليك كامل للجسم، تجميل الحواجب والرموش، بالإضافةإلى الشمع. وتبدأ أسعار العرض من 2330 فرنك سويسري (1715 دولار أمريكي) للشخص في غرفة مزدوجة، بينما باستطاعة أفراد العائلة المرافقين الإقامة مقابل 1475 فرنك سويسري (1085 دولار أمريكي).</p>
+<p>وبإمكان الضيوف الذين يحجزون أي من هذه العروض استخدام مركز ويلنيس بتصميمه الرائع المستمد من المصادر الطبيعية من الجبال المحيطة به، ويوفر حمام سباحة داخلي، سولاريوم وشرفة للتشمس، غرفة بخار منفصلة، وتجهيزات ساونا للرجال وأخرى للنساء، وصالة لياقة بدنية. ويمكن حجز ليال إضافية بسعر يبدأ من 295 فرنك سويسري (217 دولار أمريكي) للشخص لليلة.</p>
+<p>وبفضل موقع قرية زيرمات بالقرب من الحدود الإيطالية، يمكن الوصول إليها بسهولة من زيوريخ وجنيف بالقطار أو السيارة. وبما أن دخول السيارات ممنوع قطعياً إلى داخل القرية للمحافظة على بيئتها، يسمح للضيوف القادمين بالقطار أو السيارات بإيقاف سياراتهم على بعد خمسة كيلومترات عن القرية، حيث يجري بعد ذلك نقلهم مجاناً بواسطة عربات تجرها الخيول إلى فندق مونت سيرفين اند ريزنس في قرية زيرمات.</p>
+
+</body>
+</text>
+</tei.2>
+

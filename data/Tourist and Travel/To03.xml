@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To03">
+<fileDesc>
+<titleStmt>
+<title> سويس تكشف عن جدول رحلاتها الشتوي الجديد  </title>
+<author> Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 282 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-01">Issue 143, January, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>كشفت سويس انترناشيونال إيرلاينز، الناقلة الوطنية السويسرية، عن جدول رحلاتها الشتوي الجديد الذي يتضمن رحلة أسبوعية إضافية إلى مطار الملك عبدالعزيز بجدة بالمملكة العربية السعودية، بينما تم إيقاف رحلاتها إلى إيران. كما أعلنت "سويس" أيضاً عن تفاصيل مفهومها الجديد "يوروبيان بيزنس" الذي يوفر إمكانية السفر إلى 41 وجهة أوربية بأسعار مخفضة ومنافسة من خلال نظام الأسعار الجديد "سويس في أوروبا".</p>
+<p>وتسير سويس، بموجب جدول الرحلات الشتوي الجديد، رحلاتها إلى 72 وجهة في 44 دولة حول العالم، منها 25 رحلة أسبوعية في منطقة الشرق الأوسط تشمل رحلات يومية بدون توقف من دبي وخمس رحلات أسبوعية من القاهرة وأربع رحلات أسبوعية من كراتشي وثلاث رحلات أسبوعية من كل من جدة والرياض ومسقط.</p>
+<p>ويحدد نظام الأسعار الجديد "سويس في أوروبا"، تكلفة الرحلات حسب الخدمات التي يختارها المسافر. ويتيح هذا النظام الفرصة لعملاء سويس، الذين يقومون بالحجز المبكر لرحلاتهم أو تسمح لهم أوقاتهم بإبداء المرونة في تحديد يوم وميعاد السفر، الفرصة للاستفادة من الأسعار التنافسية التي يقدمها. وتتوفر هذه الأسعار على تذاكر الرحلات ذات الوجهة الواحدة، والذهاب والإياب التي تشمل عدة وجهات داخل أوروبا، حيث يمكن أن تتم الحجوزات لكل رحلة على درجات سفر مختلفة وبأسعار مختلفة.</p>
+<p>ويسمح نظام أسعار سويس الجديد للعملاء المسافرين داخل أوروبا حجز رحلاتهم عبر موقع سويس على الإنترنت www.swiss.com وبالتالي الاستفادة من أفضل الأسعار المتاحة على الموقع، الذي يوفر للعملاء إمكانية البحث عن الرحلات من خلال السعر، أو التاريخ، أو موعد المغادرة، أو درجة السفر التي يرغبون بها.</p>
+<p>وإضافة إلى الأسعار الجديدة المغرية، سوف يستفيد المسافرون الذين يستخدمون خدمة "سويس في أوروبا"، من كافة المزايا التي توفرها شبكة خطوط سويس، والتي تضم جداول رحلات ذات مواعيد منتظمة، ومطارات تقع في مواقع مركزية، ورحلات يومية عديدة على خطوط الطيران الشهيرة، بالإضافة إلى فرصة للحصول على أميال جوية لمتعددي السفر على خطوط سويس.</p>
+
+</body>
+</text>
+</tei.2>
+

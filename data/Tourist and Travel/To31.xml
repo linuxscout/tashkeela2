@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To31">
+<fileDesc>
+<titleStmt>
+<title>أين تذهب هذا الصيف؟    </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 289 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-06">Issue 137, June, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أين تذهب هذا الصيف؟ سؤال تبدو الإجابة عليه أصعب في هذا العام. وهو سؤال قد يصيب الإنسان بالحيرة وهو يعيش ظروفاً عالمية متغيرة شكلتها عوامل الإرهاب والحروب والأمراض. هذه العوامل هي في مجملها مثبطات للأنشطة السياحية عموماً، وإن كان لها دور فاعل في تغيير وجهات السياح. ولعل العرب هم أكثر السياح تأثراً بهذه العوامل بحكم ما ألصق بهم من تهم الإرهاب من ناحية، وبحكم ما يعانونه من تداعيات الإرهاب من ناحية أخرى. وليس السعوديون بمنأى عن هذه التغيرات والتداعيات. ويبدو أن هذا الأمر سيكون له دور في تشكيل الوجهات السياحية لهم خلال فصل الصيف الذي بدأت أيامه تدق الأبواب. ولعل حرارة الطقس في الجزء الأكبر من المملكة العربية السعودية تمثل دافعاً حقيقياً للتوجه إلى السياحة. وتظل تلك المتغيرات والتداعيات عاملاً مهماً في إعادة تشكيل هذه التوجهات. وإذا كان حقاً أن رب ضارة نافعة، فقد يكون هذا الأمر سبباً في تفعيل السياحة الداخلية لتكون عنصراً فاعلاً في صيف هذا العام. ولعل هذا الأمر يحفِّز الفعاليات السياحية الوطنية لاستثمار هذا التغير والحرص على تقديم وتسويق خدماتها السياحية بحيث توفر للسائح السعودي بديلاً منافساً من حيث البرامج والأسعار. وإذا كانت السياحة الداخلية تمثل بديلاً آمناً يتجاوز تداعيات الإرهاب والحروب والأمراض المتفشية حالياً، فإنها في الوقت نفسه ستسهم في حصول البلاد على جزء مهم من كعكة الإنفاق الكلي على السياحة وتمكن فعاليات السياحة الداخلية من تحقيق عوائد مجزية تكون دافعاً لتطويرها في المستقبل وتأكيداً على أن قطاع السياحة يمكنه أن يشكل جزءاً مهماً من مكونات الدخل القومي في الاقتصاد السعودي. وإذا كان ولابد من السياحة خارج الوطن فلعل الأحرى التوجه إلى البلدان العربية السياحية مثل الأردن وسوريا ولبنان ومصر وتونس والمغرب أو الدول الإسلامية مثل تركيا وماليزيا وإندونيسيا بدلاً من التوجه للدول الغربية التي أصبح السائح العربي وخاصة السعودي في هذا الوقت مثاراً للارتياب وربما تعرض لتعاملات غير مريحة في مطاراتها ومرافقها السياحية.</p>
+
+
+</body>
+</text>
+</tei.2>
+

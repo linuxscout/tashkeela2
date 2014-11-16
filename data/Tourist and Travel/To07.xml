@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To07">
+<fileDesc>
+<titleStmt>
+<title>السعودية" تربط 78 محطة داخلية ودولية بنظام البحث الآلي للعفش المفقود  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 293 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أتمت الخطوط الجوية العربية السعودية "السعودية" ربط 78 محطة داخلية ودولية بنظام البحث الآلي عن العفش المفقود، وهو نظام يتميز بسهولة الاستفسار والبحث عن العفش المفقود المصاحب للمسافرين على متن طائراتها، حيث يقوم النظام بتخزين معلومات شاملة عن المسافر وعنوانه ورقم هاتفه ونوع الحقيبة المفقودة ومحتوياتها ورقم الرحلة وتاريخها. وقامت "السعودية" بربط نظام البحث الآلي عن العفش المفقود بشبكة الإنترنت الأمر الذي منحها مجالاً واسعاً لدراسة وتطوير وتحليل المعلومات في الشبكة بحالات العفش المفقود مما يزيد الترابط بين "السعودية" وعملائها وإطلاعهم على حالة ووضع المطالبات والعفش في موقع "السعودية" على شبكة الإنترنت www.saudiairlines.com. كما استحدث عنوان للبريد الإلكتروني هو sysbgg@saudiairlines.com.sa، ليكون همزة اتصال بين "السعودية" وعملائها يتيح لهم الاستفسار عن أمتعتهم المفقودة وكل ما يتعلق بشأن مطالبتهم وما يرغبون في معرفته في مجال خدمات العفش. وتحث تعليمات "السعودية" المسافرين على رحلاتها ضرورة كتابة الاسم والعنوان داخل وخارج الأمتعة حتى تساعد العاملين في خدمات العفش على التعرف على أصحابها في حالة فقدانها والتأكد من صحة وجهة السفر على بطاقة الأمتعة ومطابقة أعدادها لعدد القطع التي تم قبولها في منصة المعاينة (كاونتر استقبال العفش)، والاحتفاظ بالأشياء الثمينة والمستندات المهمة في الحقيبة اليدوية المصاحبة للراكب، والتأكد من الأمتعة التي تخصهم بالمطابقة مع بطاقات العفش وليس باللون أو الشكل عند الاستلام في بلد الوصول، وعدم ترك أمتعتهم في صالة المغادرة، وإقفال حقائبهم بإحكام، وتغليف الأمتعة الأخرى.</p>
+<p>كما تحث التعليمات المسافرين في حالة عدم وصول أمتعتهم على نفس الرحلة أو حدوث سوء مناولة لها مراجعة موظفي خدمات العفش في صالة الوصول قبل مغادرة الصالة وتزويدهم بالمعلومات الضرورية المتضمنة العنوان الدائم أو المؤقت وأرقام الهواتف التي يمكن الاتصال بها عند الضرورة واتخاذ كافة الإجراءات المطلوبة للبحث عن الأمتعة المفقودة، كما تحث التعليمات على التأكد من الحصول على رقم ملف المطالبة للعفش المفقود وأرقام هواتف خدمات العفش بمطار الوصول والاحتفاظ بالمستندات ذات العلاقة لأهمية الرجوع إليها عند وجود أي استفسار.</p>
+
+<p></p>
+
+
+</body>
+</text>
+</tei.2>
+

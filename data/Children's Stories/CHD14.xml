@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD14">
+<fileDesc>
+<titleStmt>
+<title>   كرة من السماء</title>
+<author> المرسي محمد البدوي    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 444 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-04">April 2003,Issue no 127</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p>          لبس رامز ملابس العيد الجديدة صباح يوم العيد, وأسرع إلى أبيه وأمه وقال لهما: كل عام وأنتما بخير. قبّلته أمه وصافحه أبوه ووضع في يده مصروف العيد قائلا: أرجو أن تصرف هذه النقود فيما يفيد يا رامز, هزّ رامز رأسه وقال: طبعا يا أبي, سأشتري كرة ألعب بها في أيام الإجازات.</p>
+<p>          قالت الأم ضاحكة: ستكون هذه الكرة العاشرة التي تضيع بعد يوم أو اثنين يا رامز, اعترض رامز بشدة مؤكدا أنه سيحافظ على الكرة هذه المرة.</p>
+<p>          انطلق رامز مسرعا واشترى كرة ملوّنة بالأحمر والأسود والأبيض, نظر إليها معجبا بها ثم أخرجها من كيسها ورفعها إلى أعلى ثم ركلها بقدمه القوية, ارتفعت الكرة مسافة كبيرة ثم سقطت على الأرض محدثة دويا مزعجا, فتح أحد الجيران نافذته وصرخ في رامز طالبا منه أن يلعب بعيدا.</p>
+<p>          بعد الغداء قال الأب: سنذهب الآن إلى عمتكم الكبرى لنزورها وهناك العمة الصغرى, صفق رامز فرحا فابنا عمته الصغرى يامن ونهاد في مثل سنه ويلعبان معه كثيرا, همس رامز في أذن أمه: سآخذ الكرة معي لألعب بها مع يامن ونهاد, قالت الأم: ستسببون إزعاجا كبيرا, وعدها رامز ألا يفعل وسيحافظ على الكرة.</p>
+<p>          انطلق رامز ويامن ونهاد ولدي عمته يلعبون بالكرة في الشارع قرب بيت العمة الكبيرة, أذن المغرب والعشاء وهم في الشارع يلعبون الكرة, قال رامز متحديا: يا يامن هل تستطيع قذف الكرة في السماء بمثل قوتي, سأبدأ الآن ثم تقذفها أنت ونرى من الفائز? لم يعط رامز الفرصة ليامن كي يناقشه وقذف الكرة في السماء, اختفت الكرة, بدأ رامز ويامن ونهاد البحث عن الكرة فلم يجدوها, عاودوا البحث مرة ثانية وثالثة ورابعة ولكن الظلام كان قد ابتلع الكرة, وقف رامز حائرا وخائفا.  وفي البيت قالت نهاد فور دخولها: أضاع رامز الكرة!!</p>
+
+<p>          قال الأب غاضبا لابنه رامز: أضعت الكرة كما فعلت ذلك مرات كثيرة, لن نشتري لك كرة أخرى أبدا.</p>
+<p>          بعد أيام وقفت أميرة ابنة عمة رامز الكبرى تستذكر دروسها في شرفة المنزل, فزعت حين سقطت من السماء كرة محدثة دويا كبيرا, نظرت إليها ثم أمسكت بها فرأتها تشبه كرة رامز ابن خالها حملتها مسرعة تريها لأمها وشقيقها محمد قائلة: عادت كرة رامز من السماء, أكد محمد أنها كرة رامز, ولكن من أين جاءت? قالت أميرة بعد أن فحصت الكرة جيدا: هذه الكرة قديمة بعض الشيء عن كرة رامز, قال محمد ضاحكا: لعب بها من عثر عليها كثيرا حتى صارت بهذا الشكل, ولكنها سقطت من السماء فمن لعب بها إذن?</p>
+<p>          كان الجميع يتناولون طعام الغداء حين سمعوا طرقات متوالية على باب المنزل, فزعت أميرة وأسرعت تفتح الباب فوجدت أمامها صبيا يقول لها: سقطت الكرة عندكم.</p>
+<p>          قالت أميرة للصبي: هل هذه كرتك? قال الصبي باسما: سأقول لك الحقيقة, لقد عثرنا عليها في الشارع منذ أيام عدة, قالت أميرة على الفور: هذه الكرة ملك لرامز ابن خالي, ابتسم الصبي خجلا وقال وهو ينصرف: أنا آسف. ضحك الجميع وأميرة تحكي لهم ما قاله الصبي.</p>
+</body>
+</text>
+</tei.2>
+

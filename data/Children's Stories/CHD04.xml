@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD04">
+<fileDesc>
+<titleStmt>
+<title>   سمارة الغامق </title>
+<author> مجدي نجيب   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 280 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-01">Jan 2003,Issue no 124</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+
+
+<p>          الغراب الذي سنتحدث عنه, كان اسمه (سمارة الغامق).</p>
+<p>          لونه مثل ألوان بقية زملائه من الغربان.</p>
+<p>          الغراب (سمارة) كان لا يحب لونه الأسود, ودائما يحلم بتغيير لونه, ويتمنى أن يصبح ريشه ملونا بمثل ألوان قوس قزح المبهجة الجميلة, وكان دائما يتحسر كلما شاهد الطاووس بألوانه الزاهية, وأيضا كلما صادفه أحد الببغاوات الملونة, وكذلك العصافير التي تلمع ألوانها تحت ضوء الشمس.</p>
+<p>          أما الدب الأبيض الصغير الذي كان يشاهده وهو يستحم في حديقة الحيوان, فقد كان يحسده أيضا على بياض لونه الذي يشبه اللبن الحليب, لذلك, جلس الغراب (سمارة الغامق) فوق شجرته المفضلة وقد قرر أن يبحث عن طريقة ما يغيّر بها لونه الأسود وخصوصا أنه كان يحلم بأن يرى الحياة من حوله - أيضا - ملونة.</p>
+<p>          وتذكر الغراب (سمارة) أنه يعرف (مرسما) لأحد الرسامين له نافذة كبيرة يتركها مفتوحة بالليل والنهار, ومرسم هذا الرسام هو الذي سيحل مشكلته بما فيه من ألوان وفيرة يستخدمها في رسم لوحاته, فهبط ذات ليلة على شباك مرسمه, ثم تسلل للداخل, وأخذ يعبث في أنابيب الألوان ويلطخ ريشه دون أن يفكر في عاقبة ما يفعله!</p>
+<p>          عاد إلى شجرته وهو يحس بالزهو والسعادة, يتلفت حوله وكأنه يحاول لفت نظر المخلوقات من حوله الى شكله الجديد بعد أن صبغ نفسه بالألوان الزيتية, ولكنه لم يجد أي اهتمام من أحد, فحاول الطيران للاستعراض بلونه الجديد, فوجد نفسه لا يقوى على الحركة كأن أحدا ربطه في الشجرة.</p>
+<p>          فحاول مرة أخرى, ثم مرات عديدة, وظل على حاله ثلاثة أيام عانى فيها من الجوع والعطش وصعوبة تحريك جناحيه.</p>
+<p>          في اليوم الرابع بدأ يصرخ مستغيثا بصوته الأجش المزعج, فجاءت الطيور التي على الأشجار من حوله, والحيوانات أسفل شجرته لاستطلاع الأمر لمعرفة سبب شكواه, فلما عرفوا الحقيقة, أخذوا يضحكون منه وعليه, فقد تأكد الجميع باليقين أن الغراب من الطيور الغبية التي لا تتقن التفكير السليم.</p>
+</body>
+</text>
+</tei.2>
+
+

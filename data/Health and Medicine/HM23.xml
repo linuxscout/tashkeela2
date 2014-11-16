@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="HM11">
+<fileDesc>
+<titleStmt>
+<title>مضادات الاكتئاب تعالج القلب
+</title>
+<author>الدكتور شادي حمود الجاري السويداء </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>  جان بيار كورك, الجمهورية اللبنانية  </publisher>
+<pubPlace> Lebanon </pubPlace>                 
+<date>2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://arabmedmag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 324 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2004-01">January 21, 2004</date>
+<rs type="city">Damascus, Syria</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Article">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="Translated from BBC magazine"/>
+<domain type="Science"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>اكتشف العلماء أن الأقراص التي تستخدم لمكافحة الاكتئاب، ومنها الدواء المشهور، بروزاك، قد تساعد على تقليص احتمالات الإصابة بأمراض القلب. </p>
+<p>وقد اكتشف العلماء هذا التأثير لهذه الأدوية عندما كانوا يجرون أبحاثا تهدف في الأساس إلى تقييم تأثير لصقات النكوتين في منع حدوث الأزمات القلبية. </p>
+<p>كما درس الباحثون تأثيرات مجموعة من الأدوية المضادة للاكتئاب تعرف بـ "أس أس آر آي" على المدخنين. </p>
+<p>وتشمل أدوية "أس أس آر آي" العديد من مضادات الاكتئاب بينها حبوب بروزاك الشهيرة </p>
+<p>وقد قارن الباحثون 653 مدخنا من الذين عولجوا في المستشفيات بعد تعرضهم لأزمة قلبية للمرة الأولى، مع 2990 مدخنا ليس لهم أي عهد بأمراض القلب. </p>
+<p>ومن الذين شاركوا في الدراسة هناك 143 مشاركا ممن كانوا يتعاطون أدوية "أس أس آر آي". وقد اكتشف الباحثون أن هؤلاء هم أقل عرضة للإصابة بأمراض القلب بنسبة 65%. </p>
+<p>ويقول الباحثون إن هناك حاجة للمزيد من الأبحاث بهدف تقرير إن كان التأثير الإيجابي للأدوية المضادة للاكتئاب هو بسبب معالجة الاكتئاب أم هو أن أدوية "أس أس آر آي" لها تأثير طبي آخر يساهم في تقليص مخاطر الإصابة بأمراض القلب. </p>
+<p>غير أنهم يعتقدون بأن أدوية "أس آر آي" قد تساهم في حماية القلب بنفس الطريقة التي تساهم فيها حبوب الأسبرين، من خلال تقليص مخاطر الإصابة بالتخثر الدموي. </p>
+<p>وتتكون التخثرات الدموية عندما تتماسك جزيئات في الدم لتشكل صفائح رقيقة على هيئة أقراص، ويبدو أن أدوية "أس أس آر آي" تجعل هذه الأقراص أقل تماسكا ولزوجة مما يجنب الإصابة بأمراض القلب. </p>
+<p>ويقول كبير الباحثين في جامعة بنسلفانيا في فلادلفيا إنه يعتقد بأن هناك خصائص فريدة لأدوية "أس أس آر آي" تتعدى كثيرا قدرتها على معالجة الاكتئاب. </p>
+<p>بينما يقول أطباء آخرون لهم إطلاع في هذا المجال إن هذا الاكتشاف يمكن أن يكون مهما، إذ إن الكثير من الملاحظات قد قادت إلى استخدامات جديدة للأدوية لم تكن في الحسبان عند تصنيعها الذي كان الهدف منه علاج أمراض أخرى مختلفة تماما. </p>
+<p>وقد أظهرت الدراسات السابقة أن استخدام مرضى القلب لأنواع أخرى من الأدوية المضادة للاكتئاب له أضرار محتملة قد تتجلى في عدم انتظام عمل القلب وتسبب المزيد من الأزمات القلبية.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+
+

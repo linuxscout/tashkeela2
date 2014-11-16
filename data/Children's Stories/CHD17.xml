@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD17">
+<fileDesc>
+<titleStmt>
+<title>  قصة من التراث.. دجاجة العيد</title>
+<author> حسن نور   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 273 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2004-01">January 2004,Issue no 136</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue" active="singular"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>          اختار أحد الولاة عالمًا عُرف بعلمه وتقواه وعدله لتولي أمر القضاء في مدينته, وقد تم إخطاره بذلك قبل حلول عيد الأضحى بأيام قليلة وكان هذا العالم فقيرًا, ولما لم يمر على توليه أمر القضاء شهر كامل - عند حلول العيد - فلم يكن له مرتب, ولم يكن لديه مدخر من المال, فلم يستطع بالتالي شراء أضحية, وقد أخبر زوجته بذلك والحزن يكسو صوته ووجهه.</p>
+<p>          فقالت الزوجة الطيبة: لا تقلق ولا تحمل همّا, إن لدينا ديكا كبيرا, كنت أطعمه وأسقيه بنفسي حتى صار سمينًا وممتلئًا, سوف أذبحه ونضحي به, ولا يكلف الله نفسًا إلا وسعها.</p>
+<p>          وفي يوم العيد صعدت الزوجة الدرج إلى سطح دارها, بعد أن أدى الناس الصلاة ورجعوا لدورهم, وما إن فتحت باب العشة على الديك وبيدها السكين حتى هاج الديك وقأقأ عاليا وقفز قفزة عالية, مستخدما جناحيه القويين, ووقف فوق سور البيت, فلما تبعته طار إلى السطح المجاور, فاجتازت الزوجة سطحها وجرت وراءه, فقفز إلى سطح آخر وهو يقأقئ ويصفق بجناحيه, وهكذا من سطح إلى سطح وهو يصدر صوتًا مزعجًا جعل كل الجيران يطلون من نوافذهم ليشاهدوا ما يحدث.</p>
+<p>          سرت قصة هروب الديك من زوجة القاضي التي أرادت أن تضحي به وانتشرت في أرجاء المدينة, إذ تناقل الناس ما حدث, حتى شاعت بين الجميع, وما إن عاد القاضي من الصلاة إلى داره حتى اعترته الدهشة لما وجد بفناء بيته عددًا كبيرًا من رءوس الماشية من كل الأعمار والأحجام, فسأل زوجته: من أين لك كل هذه الأغنام?</p>
+<p>          قالت الزوجة: إنها هدايا من ناس مدينتنا الطيبين, الذين أرسلوها لنا لنضحي بها بدلاً من الديك.</p>
+<p>          ظل الرجل يفكر ويفكر وهو يسأل نفسه: أين كان هؤلاء الناس قبل أن أصير قاضيًا? ثم أمر زوجته بحسم أن تعيد الماشية لأصحابها, ثم أخذ مكانه فوق أريكته مطمئن البال.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+
+

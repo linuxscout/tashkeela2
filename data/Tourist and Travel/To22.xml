@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To22">
+<fileDesc>
+<titleStmt>
+<title>السعودية" تدشن المرحلة الثانية من خدمات الحجز عبر الإنترنت </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 349 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>دشنت الخطوط الجوية العربية السعودية "السعودية" اعتباراً من 16 يونية 2003م الماضي</p>
+<p> المرحلة الثانية من خدمات الحجز عبر شبكة الإنترنت على رحلاتها، حيث أصبح بإمكان المسافرين حجز مقاعدهم وشراء تذاكرهم على الدرجات الثلاث الأولى ورجال الأعمال والضيافة واختيار المقعد ووجبة الطعام المفضلة على الرحلات الدولية.</p>
+<p>صرح بذلك الدكتور خالد عبدالله بن بكر، مدير عام "السعودية"، وقال إن الحجز عن طريق الإنترنت الذي نجحت "السعودية" في تطبيق المرحلة الأولي منه على رحلاتها الداخية منذ منتصف شهر يناير 2003م يمثل خدمة جديدة تقدمها للمسافرين باللغتين العربية والانجليزية من خلال نظام متطور جداً سهل الاستخدام بحيث تستغرق عملية الحجز من خلال شبكة الإنترنت دقائق معدودة وفقاً للمعلومات التي تظهر على الشاشة حيث يتسنى للراكب الاختيار بين اللغتين في أي لحظة من خلال الضغط على زر واحد ومن ثم يقوم بتسجيل بياناته التي تشمل بعض المعلومات الشخصية، وبعد الحصول على رقم الحجز يمكنه شراء التذاكر من المطار أو أي مكتب للمبيعات، كما يمكنه الدفع ببطاقات الخدمات الائتمانية المصرفية الإلكترونية.</p>
+<p>وأضاف بن بكر أن تنفيذ المرحلة الثانية من خدمات الحجز عن طريق شبكة الإنترنت هو جزء من البرامج الطموحة التي شرعت الخطوط الجوية العربية السعودية منذ منتصف العام الماضي في تنفيذهها لتحسين الخدمات ضمن برنامجها "عالم جديد من الاختيارات" بهدف إحداث نقلة نوعية وتطوير جذري في خدمات "السعودية" وتلبية متطلبات المسافرين والتفوق على ما يقدمه المنافسون في الأسواق الدولية ومواكبة التطورات السريعة التي تحفل بها صناعة النقل الجوي، حيث تم إطلاق برنامج الخدمة الذهبية في مرحلته الأولى على قطاعات أوروبا والولايات المتحدة الأمريكية ودبي وبيروت والذي يشمل تطويراً جذرياً للخدمات الأرضية والجوية ويجري العمل حالياً على إطلاق برنامجها الجديد لتطوير خدمات الحجز وتوحيد أرقام الاتصال الخاصة بمكاتب الحجز في جميع أنحاء المملكة العربية السعودية وتحديث أنظمة الحجز الآلية بإدخال أنظمة ذات تقنية عالية ومواصفات عالمية تحقق سرعة الإجابة على المتصل بالتعاون مع شركة الاتصالات السعودية وربط المراكز الرئيسية للحجز بدوائر رقمية موحدة تساعد على استغلال كافة مواقع الحجز لتحقيق التجاوب السريع مع الاتصالات مع تقديم الخدمة دون توقف بتحويل المكالمات إلى أي موقع شاغر في أي قسم من أقسام الحجز على مستوى المملكة العربية السعودية وعلى مدار ال24 ساعة يومياً، إلى جانب تنظيم أسلوب العمل بكل المراكز الرئيسية للحجز مع الارتقاء بمستوى الأداء والخدمة.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+

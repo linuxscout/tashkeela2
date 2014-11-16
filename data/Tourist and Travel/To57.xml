@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To57">
+<fileDesc>
+<titleStmt>
+<title>
+تستعين بالإنترنت للبحث عن العفش المفقود</title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 202 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 109, 2 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>صرَّح حـسين إبراهيم قميرى، كبير مدراء تطوير أنظمة خدمات العفش بالخطوط الجوية العربية السعودية، بأن "السعودية" قامت بربط نظام البحـث العالمى عن العفش المفقود بشبكة الإنترنت انطلاقاً من سعيها المستمر لتقديم أفضل الخدمات للمسافرين. وقال؛ إن ربط نظام البحـث العالمى عن العفش المفقود بشبكة الإنترنت يمنح "السعودية" فرصة كبيرة لدراسة وتحـليل وتطوير المعلومات بشبكة الإنترنت المتعلقة بحـالات العفش الذى أسيئ مناولته، كما يمنح "السعودية" فرصة الاطلاع علي المطالبات الأخري لأقسام خدمات العفش لدي شركات الطيران العالمية والمرتبطة بهذه الشبكة. وأضاف قميرى أن هذه الخدمة ستكون عاملاً أساسياً فى زيادة الترابط بين "السعودية" والمسافرين علي متن طائراتها من خلال اطلاعهم علي حـالة ووضع المطالبات والعفش فى موقع "السعودية" بشبكة الإنترنت. وقال قميرى؛ إن "السعودية"، التى حـققت مركزاً متقدماً فى مجال برنامج البحـث العالمى عن العفش المفقود، تحـتل المركز العاشر بين شركات الطيران العالمية وهى ثانى شركة طيران عربية تستخدم هذا النظام لحـفظ ملفات العفش الإلكترونية والذى يتميز بوفرة عناصر البحـث والمطابقة التى لا تتوفر فى الأنظمة الأخري. كما يتميز هذا النظام بسهولة الاستعمال وسرعة الاستجابة عن الاستفسار عن حـالة العفش المفقود، حـيث يقوم النظام بتخزين معلومات كافية عن المسافر وعنوانه ورقم هاتفه ونوع الحـقيبة ومحـتوياتها ورقم الرحـلة؛ الأمر الذى يساهم فى زيادة فـرص العـثور عـلي العـفش المفـقود بسرعة وخلال وقت زمنى قصير جداً.</p>
+
+
+</body>
+</text>
+</tei.2>
+

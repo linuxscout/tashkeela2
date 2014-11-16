@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To10">
+<fileDesc>
+<titleStmt>
+<title>السعودية" تعزز قطاع الشحن الجوي برحلات جديدة إلى دكا وأديس أبابا خدماتها تعد من الأكبر على مستوى الشرق الأوسط   </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 320 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>بدأت الخطوط الجوية العربية السعودية "السعودية" رحلات شحن جوي منتظمة بين المملكة العربية السعودية وكل من العاصمة البنجلاديشية "دكا" والعاصمة الإثيوبية "أديس أبابا" بمعدل رحلة واحدة أسبوعياً بطائرات من طراز إم دي-11 التي تنقل نحو سبعين ألف طن من البضائع والشحنات. وقال حاتم زارع، مساعد المدير العام لخدمات مبيعات الشحن؛ إن هذه الرحلات الجديدة للشحن الجوي تؤكد قدرات "السعودية" وإمكانياتها الكبيرة لتلبية احتياجات السوق السعودية من رحلات الشحن الجوي وتغطية متطلباتها المتنامية.</p>
+<p>وقال زارع؛ إن قطاع الشحن الجوي ب"السعودية" حقق إنجازات كبيرة خلال السنوات الماضية، حيث بلغ متوسط ما تنقله "السعودية" من الشحنات نحو 250 مليون كيلوجرام سنوياً، في حين تصل رحلات "السعودية" للشحن إلى 10 محطات رئيسية منها محطات مجدولة لتجميع الشحنات في نيويورك وبروكسل وهونج كونج وتايبيه ودكا ودلهي والخرطوم. وتعد خدمات "السعودية" للشحن من أكبر خدمات الشحن في منطقة الشرق الأوسط نظراً لتوافر الإمكانيات الضخمة لمرافق الشحن الجوية في المطارات السعودية الرئيسية الثلاث؛ مطار الملك عبدالعزيز الدولي بجدة، مطار الملك خالد الدولي بالرياض، ومطار الملك فهد الدولي بالدمام، إضافة إلى ما تمتلكه "السعودية" من أسطول كبير من طائرات الشحن الجوي ويشمل طائرة من طراز بوينج 747 وأربع طائرات من طراز إم دي-11، إضافة إلى أسطولها الضخم من طائرات الركاب. كما تستخدم "السعودية" أحدث برامج التقنية الحديثة لإصدار بوالص الشحن ومتابعتها، بالإضافة إلى ميكنة عمليات البريد الجوي، وتطوير الأداء، وإصدار ومتابعة البوالص الداخلية آلياً، إلى جانب ربط نظام الشحن الآلي بشبكة الإنترنت بحيث أصبح بإمكان الشاحنين الحصول على كامل المعلومات عن بضائعهم والحجز لشحناتهم والتوسع في تطبيق أحدث أنظمة الشحن الآلي ليشمل وكلاء الشحن المعتمدين داخل المملكة العربية السعودية ومختلف أنحاء العالم.</p>
+<p>وتعتبر محطة دكا المحطة الأولى في إقليم آسيا من حيث حجم الشحن المنقول منها إلى المملكة العربية السعودية محطات أوروبا وأمريكا، حيث بلغ مجموع ما نقلته "السعودية" من الشحن الجوي خلال النصف الأول من عام 2003م أربعة ملايين و666 ألف كيلوجرام من الشحن الجوي، كما تمثل منطقة آسيا أولى الأقاليم من حيث مجموع الشحن المنقول منها والذي يمثل 9،29% من مجموع الشحن المنقول على أسطول "السعودية".</p>
+
+
+</body>
+</text>
+</tei.2>
+

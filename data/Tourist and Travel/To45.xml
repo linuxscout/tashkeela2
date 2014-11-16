@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To45">
+<fileDesc>
+<titleStmt>
+<title>السياحة القبرصية تحقق أرقاماً قياسية في 2000   </title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 241 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 111, 4 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أشارت مصادر منظمة السياحة القبرصية والخطوط الجوية القبرصية إلي أن السياح يتوافدون إلي قبرص بأعداد قياسية، حيث بينت الاحصائيات زيادة بنسبة 10% علي الرحلات القادمة إلي قبرص. وكانت قبرص قد استقبلت فى عام 2000م 4،2 مليون شخص. وقال كريستوس موستراس، مسؤول التسويق فى منظمة السياحة القبرصية، نأمل أن يصل هذا العدد إلي ثلاثة ملايين شخص فى العام الجارى 2001م. وقال موستراس؛ تتمتع قبرص بكل المقومات التى تجذب السياح، كالشمس والبحر وأسلوب العيش المريح وأسعار التذاكر المناسبة وأسعار صرف العملة الجيدة. وأضاف؛ لقد لاحظنا زيادة ملحوظة فى عدد السياح من دولة الإمارات العربية المتحدة والمملكة العربية السعودية والكويت، إضافة إلي عدد جيد من الزوار من جمهورية مصر العربية ولبنان. وأشار موستراس إلي أن الزوار الخليجيين يمكثون وقتاً أطول فى قبرص مقارنة بالزوار الآخرين من مناطق الشرق الأوسط الأخري. وأضاف؛ يقيم السائح المصرى ثلاثة أيام فقط، بينما يقيم السائح الخليجى أسبوعاً تقريباً. وأشار ستافروس كبريانو، رئيس الخطوط الجوية القبرصية للخليج والشرق الأوسط؛ إلي أن الرحلات من دول الخليج تشهد إقبالاً جيداً وقال؛ لا شك أن قبرص هى نكهة الشهر وكل شهر. وذكر كبريانو أن أحدث الإحصائيات تشير إلي نجاح استراتيجيات الخطوط الجوية القبرصية وقال؛ كوننا الناقلة الوطنية، نحن ملتزمون بتسهيل الحركة إلي قبرص ومنها إلي دول أخري. وأضاف؛ نحن نحقق ذلك من خلال طرح عروض وأسعار مناسبة موجهة إلي كل قطاعات الأسواق. وأضاف؛ لاحظنا أن العديد من المسافرين من منطقة الخليج العربى يرغبون فى تمضية يوم أو يومين فى قبرص قبل التوجه إلي لندن أو بيروت أو القاهرة أو عمان وغيرها من المدن.</p>
+
+</body>
+</text>
+</tei.2>
+

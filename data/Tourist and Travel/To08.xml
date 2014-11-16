@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To08">
+<fileDesc>
+<titleStmt>
+<title>إنشاء برج جديد في شارع الشيخ زايد في دبي يعد الأول من نوعه في الشرق الأوسط </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 198 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-11">Issue 142, November, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أعلن كل من حميد بن داري، وهو موظف حكومي سابق في دبي، وشركة استيكو لإدارة العقارات، ومقرها في دبي، عن بدء تنفيذ مشروع برج سكني ومكتبي جديد يتكون من 60 طابقاً في شارع الشيخ زايد في دبي أطلق عليه اسم "بارك بليس" على أن ينتهي العمل به في عام 2006م. واستوحي تصميم البرج الجديد من شكل زجاجة عطر، وصممت المبنى شركة كوكس اركيتكتشر بلانينج ديزاين الأسترالية التي فازت بمسابقة لتصميم المبنى اشتركت فيها 6 شركات هندسة معمارية عالمية.</p>
+<p>ويتميز المبنى الجديد بواجهة خارجية خاصة على هيئة غلاف لحماية الواجهة الداخلية من حرارة الشمس اللاهبة في الصيف على أن يتم تكييف الفجوة بين الواجهتين الخارجية والداخلية بالهواء البارد. ويعد هذا التصميم الأول من نوعه في منطقة الشرق الأوسط حيث لم يسبق أن استخدم في أي مبنى آخر في المنطقة قبل الآن، مما يساعد في تبريد المبنى الأصلي ويقلص تكاليف تبريد الهواء في المبنى ويحميه من أشعة الشمس المباشرة. وسيضيف المبنى الجديد بعداً آخر لشارع الشيخ زايد حيث سيصبح نموذجاً لأحد أبرز الأبراج السكنية والمكتبية الفريدة في دبي. وعند انتهاء العمل بالمبنى سيوفر 15 طابقاً للمكاتب، و45 طابقاً للشقق السكنية على أن تضم كل شقة شرفة يمكن تحويلها إلى بلكونة في فصل الشتاء ومساحة داخلية مسقوفة مكيفة في فصل الصيف.</p>
+
+
+</body>
+</text>
+</tei.2>
+

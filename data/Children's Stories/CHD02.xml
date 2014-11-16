@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD02">
+<fileDesc>
+<titleStmt>
+<title>   فراسة العرب</title>
+<author> عبدالمجيد زراقط   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 414 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-01">Jan 2003,Issue no 124</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p>          في ظهيرة يوم حار, اقتحم مجلس القاضي أعرابيّ, وهو يصرخ:</p>
+<p>          - بعيري... سرقوا بعيري... أيها القاضي...</p>
+<p>          تأمل القاضي الأعرابي الغاضب... كان هذا يلهث, وهو يحاول, دون جدوى, مسح العرق عن شفتيه وأنفه وعينيه, بطرف كوفيّته وهو يردد:</p>
+<p>          - بعيري... سرقـوا بعيري... وعليه حمل عسل.</p>
+<p>          شغل الأعرابي بعطسة قوية فاجأته, فاغتنم القاضي الفرصة, وقال:</p>
+<p>          - إهدأ, يا رجل, وارتح, في غد ننظر في قضيتك.</p>
+<p>          صاح الأعرابي: لا... لا, يا سيّدي.</p>
+<p>          سأل القاضي: ألا تنتظر حتى نحضر المتهمين?!</p>
+<p>          قال الأعرابي: المتهمون في الخارج ينتظرون الإذن بالدخول.</p>
+<p>          سأل القاضي: من أحضرهم?!</p>
+<p>          قال الأعرابي: أتوا من تلقاء أنفسهم.</p>
+<p>          فكّر القاضي لحظات, ثم قال للحاجب: أدخل الرجال المنتظرين في الخارج.</p>
+<p>          دخل رجال أربعة. حيّوا, ووقفوا في زاوية غير بعيدة عن القاضي.</p>
+<p>          تأملهم هذا وفكّر:</p>
+<p>          - (يبدون من علية القوم, يتصرّفون بأدب... أتوا إلى مجلس القاضي من تلقاء أنفسهم.. .هل يسرق هؤلاء بعيرا)?!</p>
+<p>          ثم خاطب الأعرابي: ما دليلك, يا أخ العرب, على أن هؤلاء سرقوا بعيرك?</p>
+<p>          فصرخ الأعرابي: دليلي واضح... شرد بعيري... لحقت به... اختفى في ديار هؤلاء الرجال... ولما التقيت بهم, وسألتهم عنه, وصفوه لي وصفا دقيقا, ثم أنكروا رؤيتهم له.</p>
+<p>          سأل القاضي الرجال: هل ما قاله هذا الأعرابي صحيح?</p>
+<p>          ابتسم الرجال, وتبادلوا النظرات.</p>
+<p>          فصرخ الأعرابي: لا تصدّقهم, يا سيدي, مهما قالوا... قالوا لي:</p>
+<p>          - بعيرك أعور بالعين اليسرى, يعرج... ذنبه مبتور, يحمل عسلا, وهو كما وصفوه تماما, ثم أنكروا رؤيتهم له, بعيري يحمل عسلا, ياسيدي, هو كل ما أملك...</p>
+<p>          عاد القاضي يسأل الرجال: هل ما قاله هذا الرجل صحيح?</p>
+<p>          قال كبير الرجال: صحيح.</p>
+<p>          فقال القاضي بسرعة: كيف تصفون البعير وصفا دقيقا ولا تقرون برؤيته?!</p>
+<p>          فقال الرجل الأول: لاحظت أن البعير لم يرع من العشب سوى القائم على يمين الطريق, فعرفت أنه لا يرى بعينه اليسرى.</p>
+<p>          وقال الرجل الثاني: ولاحظت أن آثار إحدى قوائمه أكثر عمقا, فعرفت أنه كان يشد عليها أكثر فتغوص في الرمال...</p>
+<p>          وقال الرجل الثالث: ولاحظت أنه عندما برك ترك خطا قصيرا مستقيما, فعرفت أن ذنبه مقطوع.</p>
+<p>          وقال الرجل الرابع: أما أنا فلاحظت أن صفّا من النحل يمتد طوال الطريق, فعرفت أن البعير يحمل عسلا, وتقطر من الحمل قطرات يتجمّع عليها النحل...</p>
+<p>          نظر القاضي إلى الرجال بإعجاب, وقال: فراسة تكافأون عليها وتُحمدون.</p>
+<p>          فصرخ الأعرابي: وأنا ما شأني بفراستكم?! أريد بعيري وحمل العسل...</p>
+<p>          فخاطب القاضي الرجال: وما دمتم تملكون هذه الفراسة فلِم لم تساعدوا الرجل في العثور على بعيره?</p>
+<p>          فقال كبير الرجال: لم يترك لنا فرصة.</p>
+<p>          فقال القاضي: وإن أعطيناكم هذه الفرصة?</p>
+<p>          فقال الرجل الرابع, وهو يضحك: نقول للأعرابي: اتبع خط صف النحل تجد بعيرك في نهايته...</p>
+<p>          قفز الأعرابي, وعانق الرجل, وهو يقول: ليتك قلت هذا الكلام من الأول...!</p>
+<p>          ثم قفز إلى الخارج, وراح يعدو صوب البادية...</p>
+</body>
+</text>
+</tei.2>
+

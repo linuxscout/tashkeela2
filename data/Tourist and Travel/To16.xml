@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To16">
+<fileDesc>
+<titleStmt>
+<title>انتركونتيننتال تشرشل لندن يطرح مبادرات جديدة قيمة لضيوفه العرب  </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 238 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-08">Issue 139, 08, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>طرح فندق انتركونتيننتال تشرشل لندن مجموعة جديدة من المبادرات لضيوفه العرب في خطوة تهدف لإضفاء الشعور بأنهم في أوطانهم. وتشمل المبادرات الجديدة ابتكار قوائم طعام شرقية، تقديم تشكيلة من قنوات ومحطات التلفزيون العربية وتوفير الصحف العربية، بالإضافة إلى عدد من خدمات التسوق التي تجعل من قضاء العطلة في لندن تجربة لا تنسى.</p>
+<p>ويستضيف الفندق خلال أغسطس 2003م الجاري الطاهيين اللبنانيين أندريه ساروفين وجريجي منصور من فندق انتركونتيننتال لافاندوم ببيروت ليعملا جنباً إلى جنب مع جيمس بريسلي، رئيس طهاة انتركونتيننتال تشرشل لندن لابتكار وإعداد بوفيه عشاء يومي فاخر يضم أشهى الأطباق اللبنانية.</p>
+<p>وسيقدم بوفيه المأكولات اللبنانية على شرفة الفندق المطلة على ميدان بروتمان من السابعة مساء حتى الحادية عشرة ليلاً مقابل 50،29 جنيه استرليني للشخص البالغ وللأطفال تحت سن 12 سنة بنصف السعر. ويضم البوفيه أيضاً عصائر طازجة ومشروبات خفيفة منعشة.</p>
+<p>بالإضافة إلى ذلك ابتكر الطهاة قائمة مأكولات لبنانية غنية بأشهى الأطباق تتوفر للضيوف طيلة 24 ساعة في اليوم عبر قسم خدمة الغرف لنزلاء الفندق.</p>
+<p>ويوفر الفندق الآن 7 قنوات فضائية عربية في غرف الضيوف وقائمة من الصحف والمجلات العربية، وبعضها متوفر على الإنترنت، ومنها مجلة .</p>
+<p>وقد خصص الفندق لضيوفه من الشرق الأوسط عرض لونغ ستي بلاس، للإقامة الطويلة الذي يوفر على الضيوف المال عند إقامتهم لسبعة أيام أو أكثر، ويسري العرض حتى 7 سبتمبر 2003م. وتزداد نسبة الخصومات مع ازدياد فترة الإقامة في الفندق الذي تبدأ أسعار الإقامة فيه لمدة أسبوع من 592 جنيه استرليني و533 جنيه للأسبوع التالي و479 جنيه للأسبوع الثالث و431 جنيه للأسبوع الرابع.</p>
+
+
+</body>
+</text>
+</tei.2>
+

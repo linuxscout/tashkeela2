@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To35">
+<fileDesc>
+<titleStmt>
+<title>دبي تبني أعلى برج في العالم تعمل على تنفيذه إعمار العقارية </title>
+<author>Unknown    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 159 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-05">Issue 136, May, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>تعتزم إعمار العقارية، كبرى الشركات العقارية في منطقة الشرق الأوسط، بناء أعلى برج في العالم. وقال محمد علي العبار، رئيس مجلس إدارة إعمار، في إعلان له عن المشروع خلال انعقاد الاجتماع السنوي الخامس للجمعية العمومية للشركة؛ يعد مشروع البرج تحفة هندسية رائعة تضاهي أفضل المباني والأبراج العالمية. وستبدأ الأعمال الإنشائية في البرج خلال العام الحالي 2003م. ويقع البرج على شارع الشيخ زايد بإمارة دبي.</p>
+<p>وقال العبار؛ سيحمل المبنى الشاهق المتميز اسم برج دبي وسيضيف المزيد إلى الخريطة المعمارية والهندسية في إمارة دبي وسيشكل إضافة جديدة في مسيرة التنمية والإبداع في الإمارة، التي تعد واحدة من أكثر مدن المنطقة حيوية وتميزاً.</p>
+<p>ومن أطول الأبراج حالياً في العالم برجي بيتروناس في ماليزيا 452 متراً، وبرج شيكاغو سيراس 442 متراً. وأعلنت الصين عن البدء في بناء برج مركز شنغهاي المالي العالمي بارتفاع يقدر بحوالي 492 متراً، ومن المتوقع أن يتم إنجاز هذا البرج في عام 2007م. وتسعى دبي أن تسابق العالم من خلال بناء هذا البرج الذي سيتخطى كل الأرقام المسجلة حالياً.</p>
+
+
+</body>
+</text>
+</tei.2>
+

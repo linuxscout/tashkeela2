@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD13">
+<fileDesc>
+<titleStmt>
+<title> الفخّ </title>
+<author> بسمة الخطيب    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Ministry of Information, Kuwait</publisher>
+<pubPlace> Kuwait </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.alarabimag.com/youngaraby
+</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 189 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-04">April 2003,Issue no 127</date>
+<rs type="city">Safat, Kuwait</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+
+<p>          وصلت مجموعة من العصافير إلى حقل ذرةْ, فغرّدت وصاحت: ما أجمله!</p>
+<p>          استعد الجميع لوليمة شهية, بعد رحلة طويلة ومضنية.</p>
+<p>          في وسط الحقل كانت كومة ذرة تلمع, وكان الصغير دودو الأسرع إليها ْ. عندما لامس الفرخ الحبات , لم يكن يعلم أنه فخ. علقت أصبعه في الدبق, فصاح: إليّ يا أصدقائي!</p>
+<p>          وهنا كان على الأصدقاء أن يجدوا طريقة لإنقاذ دودو.</p>
+<p>          قال أشجعهم بحماسة : سأذهب وأشده بقوة. فرد آخر: لا! قد يتمزق جلده أشفق عليه. الحل أن نجلب الماء ونرميه بين رجليه. وهنا صاح ثالث: ولكن الماء بعيد وحتى نحضره يكون الصياد قد أتى وأسره.</p>
+<p>          قال العصفور سوسو: أنا رأيي أن نهرب في الحال, فإنقاذ دودو المتهور محال.</p>
+<p>          وقبل أن يكمل كلامه صاح عصفور به: يا لك من جبان! عندها احمرّت عينا سوسو إذ شعر أنه يهان. هجم على رفيقه يريد ضربه وفقد كل عصفور أعصابه وكاد الجميع يشترك بالعراك وينسون صديقهم العالق في الشراك. وقبل أن يتطور الشجار, صرخ كبيرهم: يا للعار! يا للعار!</p>
+<p>          وأضاف: لقد وقعنا جميعا في الفخ المنصوب, وهو ليس الدبق تحت تلك الحبوب. لو كنا رأيا واحدا وقلبا واحداً لأنقذنا رفيقنا منذ زمن. بعضنا لديه الشجاعة وبعضنا لديه الذكاء لكن أحدا منا لا يمتلكهما معا!</p>
+</body>
+</text>
+</tei.2>
+

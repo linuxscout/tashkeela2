@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="Int13">
+<fileDesc>
+<titleStmt>
+<title> إعترفت بتكاسلها وعدم إتقان فن فرض النفس المطربة الكويتية شمس: الشللية تدير المهرجانات الغنائية وحفلات الصيف أقرب للملاهي الليلية!  </title>
+<author> Interviewer, المطربة الكويتية شمس  </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> HH Saudi Research and Marketing (U.K) LIMITED </publisher>
+<pubPlace> UK </pubPlace>
+<date>2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.sayidaty.net/sayidaty/1193/stars/stars.htm </p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 417 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2004-01">Issue 1193, January, 2004</date>
+<rs type="city">London, UK</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Interview">
+<channel mode="w">print; written</channel>
+<constitution type="corporate"/>
+<derivation type="original"/>
+<domain type="Public"/>
+<factuality type="fact"/>
+<interaction type="discussion"/>
+<preparedness type="spontaneous"/>
+</textDesc>
+<particDesc>
+<person role="interviewer" sex="Unknown" age="Unknown" id="P1">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+<person role="interviewee" sex="F" age="Unknown" id="P2">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Kuwaiti </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> UAE </residence>
+<education> Unknown </education>
+<occupation>Singer</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<p>المطربة الكويتية شمس، والمقيمة في الإمارات منذ عدة سنوات، تملك من الإمكانات الصوتية ما يجعلها في صدارة مطربات الخليج، وهي على الدرجة نفسها تملك مواصفات جمالية وقبولا يرشحها لإكمال معادلة الغناء اليوم.</p>
+<p>عندما سألناها عن سبب ابتعادها عن المهرجانات الغنائية، ألقت باللائمة على «الشللية»، ورفضت مجدداً فكرة الحفلات الصيفية، التي تمتد إلى طلوع الشمس، باعتبارها أقرب إلى الملاهي الليلية. ولم تنكر شمس حرصها على استقطاب الجمهور السعودي، الذي يقدر صوتها وموهبتها. وتشير إلى القنوات الموسيقية، باعتبارها «محرقة» الأغنيات المصورة.</p>
+<p>* أين اختفت شمس؟</p>
+<p>ـ أنا موجودة وألبومي الأخير «سبع مرات»، حقق مبيعات كبيرة، ونجحت أغنياته جميعا. وحالياً، أصور أغنية «كبر راسك»، كلمات عمر النعيمي وألحان وليد عبد الله وتوزيع عمرو عبد العزيز، واستعد لتصوير أغنية ثانية بعد نجاح أغنية «سبع مرات»، وتوالى عرضها في القنوات الفضائية.</p>
+<p>أعراس</p>
+<p>* لكن اعتمادك في الظهور شبه قاصر على حفلات الأعراس والحفلات الخاصة؟</p>
+<p>ـ لا، ليس هذا بالحقيقة، لأن اعتمادي الأساسي على تقديم الألبومات أولا، وليس على حفلات الأعراس فقط، لكن لتقل إن شمس لم يأتها العرض الذي يليق بها وبفنها وأحاسيسها، لتكون مطربة مهرجانات، أنا شخصياً أقيم نفسي وأعرف قدراتي، لذلك ابتعد عن الحفلات العامة والمهرجانات.</p>
+<p>* لماذا كان قرارك بعدم المشاركة بالمهرجانات الغنائية؟</p>
+<p>ـ كما قلت لأني أعرف قدراتي جيدا، ولي اعتراض على تعامل المسؤولين عن تلك الحفلات مع المطربين الجدد مثلا، والوقت الذي يختارونه لظهور مطرب صاعد، والعناية التي يوفرونها له كمطرب مبتدئ، ثم موضوع «الشللية» الذي يحكم هذا العالم!.</p>
+<p>مبتدئة</p>
+<p>* بعد 3 سنوات في عالم الغناء، هل تعتبرين نفسك مبتدئة؟</p>
+<p>ـ نعم، ولو بعد 30 سنة، لأني حريصة على التعلم واكتساب الخبرة، ولأني أحترم الغناء وأصوله، فدائماً اعتبر نفسي في البداية مهما حققت من نجاحات، فلا يهمني وصول أغنية أو اثنتين للناس، قدر أهمية أن اكتسب الخبرة وأجود في أعمالي، واصعد السلم من بدايته. بالفعل كان من الممكن أن اختصر أشياء كثيرة في حياتي الفنية، لكن هناك خطا معينا أسير عليه، ولا ارضى لنفسي بأن أحيد عنه، لصناعة اسم سريع وشهرة عريضة سرعان ما تختفي.</p>
+<p>* كيف تفسرين قولك بأن الحفلات والمهرجانات قائمة على «الشللية»؟</p>
+<p>ـ ليس هذا قولي أو وجهة نظري فقط، الوسط الغنائي كله يعلم ما يدور في تلك المهرجانات، وان المهرجان الفلاني قاصر على أسماء معينة، والمهرجان العلاني لأسماء أخرى، والبرنامج الذي يديره متعهد لبناني يطغى عليه اللبنانيون، ولا تجد خليجيا واحدا، ولو كان مصريا لكثر عدد المطربين المصريين، ولو كان اماراتيا ركز على الإماراتيين!.. اعذروا صراحتي، لكني لست محسوبة على أحد، وليست لي «شلة»!.</p>
+<p>ورغم ذلك، قدمت لي عروض للمشاركة، وما زلت أرى أنها لا تناسبني في أول ظهور لي في المهرجانات الغنائية، سواء في دبي أو مسقط أو جرش أو غيرها.</p>
+
+
+</body>
+</text>
+</tei.2>
+

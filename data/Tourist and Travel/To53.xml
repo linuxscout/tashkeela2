@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To53">
+<fileDesc>
+<titleStmt>
+<title>
+قبرص.. بلد الجمال والتاريخ والشمس الساطعة</title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 227 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 109, 2 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أكد مسؤولو القطاع السياحـى فى قبرص أن السياحـة ستبقي عماد الاقتصاد فى الجزيرة المتوسطية، وفق الإحـصاءات الرسمية، وأن سعر صرف العملة وانخفاض أسعار تذاكر السفر هما من العوامل الرئيسية التى ستجذب المزيد من السياح إلي قبرص فى العام المقبل، وخصوصاً من دول الخليج. وتعتبر قبرص من أبرز الوجهات السياحـية التى تتيح لزوارها متعة التزلج صباحـاً والاسترخاء علي شواطئ الجزيرة الخلابة بعض الظهر. والجزيرة هى جوهرة البحـر الأبيض المتوسط التى طالما كانت الملجأ المفضل للسياح والمواطنين والمقيمين فى منطقة الخليج العربى. وقال ستافروس كبريانو، مدير الخطوط الجوية القبرصية فى الشرق الأوسط؛ إن قبرص هى البلد الثانى بالنسبة لكثير من أهل الخليج. والواقع أن الخليجيين يشعرون بحـب كبير تجاه الجزيرة. وأضاف كبريانو أن قبرص هى بلد الجمال والتاريخ والشمس الساطعة، حـيث تتباهي بجبال ترودوس الشامخة والشواطئ الذهبية والناس الطيبين والحـضارة القديمة قدم التاريخ. وتعتبر أسعار الرحـلات التى تقدمها الخطوط الجوية القبرصية من العوامل الرسمية لجذب السياح إلي الجزيرة. وحـسب وزير التجارة والصناعة والسياحـة فى قبرص، نيكوس رولانديس، فإن السياحـة هى القوة الكبري فى الجزيرة، بل هى أكبر صناعة فى العالم، فهى تساهم بحـوالى 6،1 مليار دولار أمريكى كل عام فى الاقتصاد القبرصى أى بنسبة 20% من الناتج القومى. وفى قطاع السياحـة، يعمل نحـو 20% من إجمالى القوي العاملة فى قبرص. ويزور قبرص سنوياً أكثر من مليونى شخص، 80% منهم من أوروبا وأكثر من 100 ألف شخص من الشرق الأوسط، وتسعي هيئة السياحـة القبرصية إلي زيادة هذا العدد فى المستقبل.</p>
+
+
+</body>
+</text>
+</tei.2>
+

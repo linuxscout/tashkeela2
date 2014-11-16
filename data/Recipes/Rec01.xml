@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="Rec01">
+<fileDesc>
+<titleStmt>
+<title>   سمك بصوص طماطم مع الكريمة </title>
+<author> الشيف صبرى إبراهيم   </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Abdelrahiim AlSheekh, UAE</publisher>
+<pubPlace> UAE </pubPlace>                 
+<date>2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://aklaat.com/maindishes/fishcrmtm_dishes.htm </p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 224 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2004-01">January 19, 2004</date>
+<rs type="city">Abu Dhabi, UAE</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Recipe">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+
+<p> المقادير</p>
+<p>
+سمك قشر بياض فيليه مقطع ثمانى قطع , القطعة الواحدة 90 جرام  <br />
+زيت ذرة أو زيت زيتون  <br />
+نصف كوب دقيق   <br />
+ملعقة شاى لكل من الأصناف الآتيه : كمون , فلفل أبيض , ملح , وكزبرة ناعمة  <br />
+قرنيين فلفل أخضر حامي <br /> 
+2 طماطم مقشرة   <br />
+فلفلة رومي   <br />
+بصلة صغيرة   <br />
+مكعب خلاصة مرقة الدجاج  <br />
+2 سن ثوم  <br />
+2 ليمون عصير    <br />
+نصف كوب كريمة لباني معلبة طازجة <br /> </p>
+<p> 
+<p>الطريقة</p> 
+يتبل السمك فى الليمون والزيت ونصف كمية البهارات المذكورة مع الثوم المدقوق والملح والليمون ويترك فترة ربع الساعة.  
+ .1 <br />                                                                                                            
+تقطع الخضروات المذكورة فرم ناعم والطماطم تقشر بعد وضعها فى ماء مغلي دقيقة واحدة ثم تقطع قطع صغيرة.  
+ .2 <br />
+تغمس الأسماك بالدقيق قطعة قطعة وتحمر بالزيت فى الطاسة بعد أن يقدح.   
+ .3  <br />
+يقلب السمك على الوجه الآخر بعد أن يصير لونه ذهبى لمدة ثلاثة دقائق على كل جنب.  
+ .4 <br />
+بعدها يرفع من الطاسة , ويوضع البصل مع الفلفل والفلفل الحامى وباقى الثوم على النار حتى يذبل ثم يضاف إليه باقى البهارات مع مكعبات خلاصة مرقة الدجاج.  
+ .5 <br />
+يضاف الطماطم المقطعة قطع صغيرة. <br /> 
+ .6 <br />
+يضاف نصف كوب ماء وتخفض حرارة النار إلى أقصى درجة لمدة خمس دقائق. 
+ .7  <br />
+يضاف عصير الليمون الباقى وبعدها الكريمة تغلى مرة واحدة ثو يضاف إليها السمك المستوي من قبل وتغلى دقيقة واحدة وترفع من على النار.  
+ .8  <br />
+يضاف إليها البقدونس المفروم ... تقدم مع الأرز الأبيض.. بالهناء و الشفاء ..... الشيف صبرى إبراهيم شيراتون القاهرة.  
+ .9  <br />
+</p>
+</body>
+</text>
+</tei.2>
+

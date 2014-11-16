@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="CHD24">
+<fileDesc>
+<titleStmt>
+<title>العصافير  </title>
+<author>جبير المليحان    </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>Jubeer Al-Muleehan, Saudi Arabia</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2000-2004</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.arabicstory.net </p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 464 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2000-2004">2000-2004</date>
+<rs type="city">Reyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc ana="children’s story">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fiction"/>
+<interaction type="dialogue" active="single"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="M" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Saudi </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+
+<p>                       أشجار خضراء كثيرة... </p>
+<p>  و طيور ، و عصافير كثيرة .. </p>
+<p>  و أولاد كثيرون يلعبون في تلك القرية االتي تخبئ أشجارها عن الرياح بين جبال عالية ، فيما الغيوم الكثيرة تطل على نخيلها في المواسم و تمطر ... </p>
+<p>  تمطر .. </p>
+<p>  تمطركثيرا و كأنها تبكي بغزارة .. </p>
+<p>  تبكي حتى تمتلئ الأحواض .. و يسيل الوادي .. و يخرج الأهالي .. و الحيوانات .. و الطيور .. و يتطاير النمل في ضوء الشمس البارد .... تتطاير الكلمات .. و الضحك .. و الأطفال ... حتى الغروب . </p>
+<p>  ذلك لا يحدث في القرية دائما .. بل في مواسم معينة ، و قليلة أيضا .. </p>
+<p>  ربما مرت سنوات كثيرة دون أن تبرق غيمة واحدة .. </p>
+<p>  في تلك الأيام تتكاثر سحب الغبار في الطرقات الحزينة .. و يخرج الناس من بيوتهم صامتين .. يسوقون حيواناتهم الهزيلة .. و ينظرون إلى الأشجار الكثيرة و هي تتخلص من أوراقها ، و تنكمش حتى تصير قصيرة الجذوع .. و تنتصب أغصانها العارية .. و تتحول رويدا رويدا إلى أعواد .. </p>
+<p>  ( ن ) أحد أولاد القرية .. </p>
+<p>  يطوف مع الأولاد .. ويلعب أحيانا .. لكنه لا يتحدث كثيرا .. و لا يرافق الأولاد في رحلاتهم الجماعية لصيد الطيور.. يعقد حاجبيه محتجا ، و يغادر المكان غاضبا عندما يصطاد أحدهم طيرا ... </p>
+<p>  يمر يوم أو يومان دون أن يروه .. </p>
+<p>  قبيل الغروب يسألون الرجل العجوز الجالس في زاوية البيت الطيني عنه .. فلا يجيب ، يمد يده مؤشرا ناحية الحقول البعيدة ، و يظل يحدق بعينين صغيرتين بعيدتين ... </p>
+<p>  يتجاهل الأولاد إشارته ، و يلهون بالكرة وسط أعمدة الغبار المنطلقة من أقدامهم و هم يلعبون حتى اختفاء الضوء .. </p>
+<p>  يحدق فيهم الرجل العجوز دون أن يتكلم .. أو يبتسم .. و عندما ينفضون أقدامهم من الأتربة .. و يتفرقون إلى بيوتهم .. يعود ( ن ) و يمر بقربه .. يرفع يده محييا الشيخ ، دون أن يتكلم .. يرفع العجوز يده محييا أيضا ، و يبتسم .. ويقوم متكئا على عصاه ، دون أن يلتفت إلى الآخرين ، و يوجه خطاه البطيئة نحو المسجد .. </p>
+<p>  في يوم ما اصطاد أحدهم طائرا كبيرا ملونا ، كان جميلا جدا .. شاهد ( ن ) الطائر و هو يسقط ، و دماؤه تتناثر على الأعشاب .. خطى خطوات كبيرة و هو يكوّر قبضته .. حدج الولد بنظرة قاسية .. واستدار راكضا .. </p>
+<p>  مرّ بالرجل العجوز مسرعا ، لم يحيه .. لم يبتسم العجوز .. و لم يخرج ( ن ) للعب مع الأولاد : </p>
+<p>  قيل أنه يستيقظ ، كل يوم مبكرا و يذهب إلى الحقول ... </p>
+<p>  و أن الكثير من العصافير كانت تلتف حوله ، عندما تراه ماشيا بين الأشجار ... </p>
+<p>  و تشاركه الغناء ... </p>
+<p>  أما الرجل العجوز فسمع ذلك اليوم ، و هو يشير بيده نحو الحقول ، و يحدق بعينيه البعيدتين ، و يبتسم ، يقول : </p>
+<p>  إن كثيرا من الأغصان تخضر عندما يمر ( ن ) بقربها ، و تكسوها العصافير بالغناء ... </p>
+
+
+</body>
+</text>
+</tei.2>
+
+

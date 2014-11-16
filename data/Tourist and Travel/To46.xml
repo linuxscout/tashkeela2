@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To46">
+<fileDesc>
+<titleStmt>
+<title>
+إفتتاح مركز للاستشفاء بالحمامات المعدنية بفندق انتركونتيننتال بيروت</title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 259 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 111, 4 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>افتتح منتجع وفندق إنتركونتيننتنال مزار بالعاصمة اللبنانية بيروت، الذى يعد أرقي منتجع للتزلج فى الشرق الأوسط وأفريقيا، مؤخراً مركزاً جديداً للاستشفاء بالحمامات المعدنية تبلغ مساحته 1200 متر مربع. ويوفر المركز أحدث الأجهزة والخدمات والمواصفات العصرية المتطورة. ويضم المركز 16 غرفة استشفاء وغرف مساج ومجموعة واسعة من علاجات البشرة والجسم، بالإضافة إلي المعالجات الكهربائية الضغطية والدوشات النفاثة والعناية بالوجه وغيرها من المعالجات وبإشراف إخصائيين أكفاء. ويضم مركز سبا لا ثيرمى دو مزار للاستشفاء أيضاً غرفاً للبخار للسيدات والرجال، وجمنازيوم وغرفة استرخاء. وبإمكان الضيوف الاستفادة من تشكيلة من المعالجات المصممة خصيصاً لتخسيس الوزن والتجميل. ويتعاون المركز مع كريستيان ديور وثالغو فى استخدام أحدث منتجات التجميل والاستشفاء. وقال فرانز راتينستير، مدير عام المنتجع؛ سيعزز مركز الاستشفاء الجديد طابع المنتجع ويزيده جاذبية فى نظر السائحين ورجال الأعمال المسافرين من المنطقة وخارجها ومن العملاء غير المقيمين فى الفندق. وبافتتاح المركز الجديد سيضاف حافز جديد لزيارة منتجع وفندق انتركونتيننتال مزار.</p>
+<p>ويبعد المنتجع مسافة ساعة بالسيارة عن قلب العاصمة بيروت، ويمنح المسافرين فى منطقة الشرق الأوسط بديلاً جذاباً لوجهات التزلج الأوروبية الشهيرة، ويضم مرآباً للسيارات تحت الأرض يستطيع الضيوف من خلاله مباشرة استقلال عربات التلفريك إلي أعالى منحدرات التزلج الجبلية المكسوة بالثلوج. وكان المنتجع قد أزاح الستار فى الآونة الأخيرة عن قاعة مسرح تحتوى علي 110 مقاعد؛ مما يعزز جاذبيته ويوفر فرصاً ترفيهية مختلفة لرجال الأعمال ومنظمى المؤتمرات والسائحين وعملائه المحليين غير المقيمين وعشاق الطبيعة الخلابة والمواقع التاريخية؛ بحكم موقعه بالقرب من جسر الحجر الطبيعى وقلعة فقرا الشهيرة.</p>
+<p>ويضم المنتجع 93 غرفة وجناحاً ويقدم مجموعة واسعة من النشاطات الترفيهية الشتوية والصفية، وملاذا للباحثين عن الراحة والاسترخاء. ويضم مركزاً للتسوق، أربعة مطاعم، مسابح داخلية وخارجية واسطبلات للخيول.</p>
+
+</body>
+</text>
+</tei.2>
+

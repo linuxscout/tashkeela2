@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To25">
+<fileDesc>
+<titleStmt>
+<title>
+كتيب سويس الجديد للعطلات الصيفية يشهد إقبالاً كبيراً زاد استفسارات العملاء بنسبة 20   </title>
+<author>د. عبدالرحمن إبراهيم الصنيع     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2003</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 159 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2003-07">Issue 138, July, 2003</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>أعلنت سويس انترناشيونال إيرلاينز، الناقلة الوطنية السويسرية، عن تسجيل زيادة بنسبة 20% في معدل استفسارات العملاء حول العروض الخاصة لقضاء العطلات في فصل الصيف. يأتي ذلك في أعقاب الإطلاق الناجح لكتيب سويس الجديد "سويس اكسبيرينس" الخاص بعروض العطلات الصيفية في معرض سوق السفر العربي "الملتقى 2003". ويهدف الكتيب إلى تزويد المسافرين ومحبي قضاء العطلات الصيفية بحلول مثالية والحصول على قيمة حقيقية لما ينفقونه من أموال للاستمتاع بالمناظر الطبيعية الخلابة في سويسرا. ويمكن أيضاً للمسافرين من دول المنطقة الاستفادة من عرض سويس الترويجي "فاميلي فيرز". ويعد هذا العرض أحد العروض الترويجية الجذابة التي تتيح الفرصة للعائلة المكونة من 5 أفراد الاستفادة من تخفيضات جيدة عند السفر إلى سويسرا، الأمر الذي يجعل من وجهة سويس إلى زيوريخ الخيار العملي بالنسبة لأولئك الراغبين بالسفر إلى أوروبا هذا الصيف. ويتوفرحالياً كتيب "سويس اكسبيرينس" في كافة مكاتب وكالات السفر والسياحة ومكاتب سويس في المنطقة. ويمكن للراغبين الحصول على مزيد من المعلومات حول العروض الخاصة بقضاء العطلات الصيفية التي يتضمنها الكتيب، زيارة موقع الإنترنت www.myswitzerlandtourism.com.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+

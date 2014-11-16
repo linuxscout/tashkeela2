@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To43">
+<fileDesc>
+<titleStmt>
+<title>منتجع بارون - شرم الشيخ.. لؤلؤة البحر الأحمر   </title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 125 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 116, 9 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>يعد منتجع بارون - شرم الشيخ أحد المعالم الرئيسية لهذه المدينة الحالمة علي ضفاف البحر الأحمر وفى مواجهة مضائق تيران. المساحة الكلية للمنتجع تبلغ 120 ألف متر مربع ومساحة المبانى تستحوذ علي 18% منها فقط مما يتيح المجال لمساحات واسعة تم استغلالها بشكل جيد فى رسم لوحة رائعة من الأراضى الخضراء والمسابح والمطاعم فى مواجهة البحر بشاطئ خاص تزيد واجهته عن 500 متر. المنتجع يحتوى علي 380 غرفة معظمها يواجه البحر بالإضافة إلي جناحين ملكيين بكل منهما مسبح خاص، وعدد 11 جناح لرجال الأعمال والعائلات. وبالمنتجع مطاعم شرقية وإيطالية وهندية، وخدمات متكاملة لرجال الأعمال. ما يميز هذا المنتجع هو اللمسة الشخصية التى يشعر بها ضيوف المنتجع والتى يحرص عليها السيد أحمد خالد، مدير عام المنتجع. للحجز والاستعلامات، يمكن الاتصال علي الهاتف 670100(2069) أو الفاكس 670107(2069).</p>
+
+
+</body>
+</text>
+</tei.2>
+

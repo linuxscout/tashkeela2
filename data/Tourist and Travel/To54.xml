@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tei.2>
+<teiHeader id="To54">
+<fileDesc>
+<titleStmt>
+<title>
+الصراف الجوي .. فقط على طائرات "السعودية"</title>
+<author>Unknown     </author>
+<respStmt><resp>compiled by</resp>
+<name>Latifa Al-Sulaiti</name></respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher> Naseej.com</publisher>
+<pubPlace> Saudi Arabia </pubPlace>                 
+<date>2001</date>
+</publicationStmt>
+<sourceDesc>
+<p>created in machine-readable form in http://www.ecoworld-mag.com</p>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<projectDesc>
+<p>Texts collected for use in the
+    Corpus of Contemporary Arabic project, June, 2003</p>
+</projectDesc>
+<samplingDecl>
+<p>Whole text of 171 words copied from the site</p>
+</samplingDecl>
+</encodingDesc>
+<profileDesc>
+<creation>
+<date value="2001-01">Issue 109, 2 January, 2001</date>
+<rs type="city">Riyadh, Saudi Arabia</rs>
+</creation>
+<langUsage>Arabic</langUsage>
+<textClass>
+<textDesc n="Report">
+<channel mode="w">print; written</channel>
+<constitution type="single"/>
+<derivation type="original"/>
+<domain type="Arts"/>
+<factuality type="fact"/>
+<interaction type="none"/>
+<preparedness type="prepared"/>
+</textDesc>
+<particDesc>
+<person id="P1" sex="Unknown" age="Unknown">
+<birth date=" Unknown">
+<date> Unknown </date>
+<name type="place"> Unknown </name>
+<nationality>= Unknown </nationality>
+</birth>
+<firstLang>Arabic</firstLang>
+<langKnown>Unknown</langKnown>
+<residence> Unknown </residence>
+<education> Unknown </education>
+<occupation>Unknown</occupation>
+</person>
+</particDesc>
+</textClass>
+</profileDesc>
+</teiHeader>
+<text>
+<body> 
+<p>فى خطوة هى الأولي من نوعها علي متن طائرات شركات الطيران العالمية، تقدم الخطوط الجوية العربية السعودية "السعودية" خدمة جديدة تقدم للمسافرين علي متن طائراتها وذلك من خلال خدمة "الصراف الجوى" لتحـويل العملات النقدية وقبول الشيكات السياحـية وبطاقات الفيزا وماستركارد. وقـال شـوقى مشـتاق، مـدير عـام المبيعات الجـوية بـ"السعودية"؛ إن الخـدمـة الجديـدة التى تـم تنفـيذها عـلي جميع رحـلات "السعودية" اعتباراً من يناير 2001م بعد أن أثبـتت نجـاحـها بصـورة تجـريبية عـلي بعـض رحـلات "السعودية" إلي أوروبا وأمريكا اعـتباراً مـن شـهر أكتوبر الماضى؛ ستوفر للمسافرين علي متن طائرات "السعودية" إلي الخارج شراء عملة البلاد التى يقصدونها وتوفر كذلك لجميع المسافرين إلي المملكة العربية السعودية خدمة شراء الريال السعودى وهم علي مقاعدهم داخل الطائرة بكل يسر وسهولة مستفيدين من أسعار الصرف التنافسية. كما توفر هذه الخدمة للركاب دفع قيمة مشترواتهم ببطاقات الائتمان. وقال؛ إن الخدمة الجديدة التى تم تنفيذها بالتعاون مع شركة سكاى تيلر الأمريكية تعتمد علي جهاز صراف آلى خفيف يمكن حـمله باليد ويمكن استخدامه بسهولة حـيث تتم كافة العمليات الحـسابية بشكل آلى من خلال لمس الشاشة بينما توجد العملة فى صندوق آمن بالطائرة.</p>
+
+
+
+</body>
+</text>
+</tei.2>
+
