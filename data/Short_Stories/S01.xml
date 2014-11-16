@@ -26,7 +26,11 @@ http://www.ArabicStory.net</p>
 <p>Whole text of 2352 words copied from the site</p>
 </samplingDecl>
 </encodingDesc>
-
+<vacalization>
+<status>finished
+</status>
+<vocalizedby>Taha Zerrouki</vocalizedby>
+</vacalization>
 <profileDesc>
 <creation>
 <date value='1992-08'>August 1992</date>
